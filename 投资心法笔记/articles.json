@@ -1,0 +1,160 @@
+[
+  {
+    "title": "给生活留点余量，和买股票留安全边际是一回事",
+    "line": "价值投资心法",
+    "date": "2026-11-05",
+    "time": "09:52",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/415601933",
+      "头条": "https://www.toutiao.com/article/7705410593180451366/"
+    },
+    "quotes": [
+      {
+        "source": "格雷厄姆《聪明的投资者》",
+        "locator": "第20章开头",
+        "original": "Confronted with a like challenge to distill the secret of sound investment into three words, we venture the motto, MARGIN OF SAFETY.",
+        "url": "https://www.oreilly.com/library/view/the-intelligent-investor/9780061745171/text/9780061745171_Chapter_20.xhtml"
+      },
+      {
+        "source": "格雷厄姆《聪明的投资者》",
+        "locator": "第20章",
+        "original": "The margin is available for absorbing the effect of miscalculations or worse than average luck.",
+        "zh": "正文为大意转述",
+        "url": "https://futureblind.com/p/book-notes-benjamin-graham",
+        "note": "这句是从读书笔记里的原文摘录核对的，不是一手书页"
+      }
+    ],
+    "link": "思考/2026-11-05-给生活留点余量和买股票留安全边际是一回事"
+  },
+  {
+    "title": "为什么赚了的总想卖，亏了的却舍不得卖？",
+    "line": "交易心理学",
+    "date": "2026-11-09",
+    "time": "14:47",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/416126724"
+    },
+    "quotes": [
+      {
+        "source": "Shefrin & Statman (1985), Journal of Finance 40(3)",
+        "locator": "摘要",
+        "original": "a general disposition to sell winners too early and hold losers too long",
+        "url": "https://doi.org/10.1111/j.1540-6261.1985.tb05002.x",
+        "note": "正文用了它的命名和四个解释（心理账户、怕后悔、自我控制、税），没引数据"
+      },
+      {
+        "source": "Odean (1998), Journal of Finance 53(5)",
+        "locator": "引言首段",
+        "original": "has been labeled the disposition effect by Shefrin and Statman (1985)",
+        "url": "https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AreInvestorsReluctant.pdf"
+      },
+      {
+        "source": "Odean (1998), Journal of Finance 53(5)",
+        "locator": "Table I 及正文",
+        "original": "a stock that is up in value is more than 50 percent more likely to be sold from day to day than a stock that is down.",
+        "zh": "按全年算，浮盈的股票某一天被卖掉的可能性比浮亏的高五成多",
+        "url": "https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AreInvestorsReluctant.pdf",
+        "note": "全年 PGR 0.148、PLR 0.098；12 月方向相反（税务原因），所以正文写「按全年算」"
+      },
+      {
+        "source": "Odean (1998), Journal of Finance 53(5)",
+        "locator": "正文",
+        "original": "For winners that are sold, the average excess return over the following year is 3.4 percent more than it is for losers that are not sold.",
+        "zh": "卖掉的赚钱股，之后一年的超额收益平均比留着的亏钱股高 3.4 个百分点",
+        "url": "https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AreInvestorsReluctant.pdf",
+        "note": "样本：美国一家折扣券商 1987–1993 年随机 1 万个账户"
+      },
+      {
+        "source": "Kahneman & Tversky (1979), Econometrica 47(2)",
+        "locator": "价值函数一节",
+        "original": "A salient characteristic of attitudes to changes in welfare is that losses loom larger than gains. The aggravation that one experiences in losing a sum of money appears to be greater than the pleasure associated with gaining the same amount.",
+        "zh": "亏一笔钱的难受，好像比赚同样一笔钱的高兴更大",
+        "url": "https://doi.org/10.2307/1914185",
+        "note": "「参考点常常是买入价」是文章里自己的延伸，不是论文原话"
+      }
+    ],
+    "file": "交易心理学/2026-11-09-为什么赚了的总想卖亏了的却舍不得卖.md"
+  },
+  {
+    "title": "股价不归我管，那什么归我管？",
+    "line": "哲学",
+    "date": "2026-11-10",
+    "time": "20:21",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/416314266"
+    },
+    "quotes": [
+      {
+        "source": "爱比克泰德《手册》(Enchiridion)",
+        "locator": "第1章，Elizabeth Carter 英译",
+        "original": "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions. Things not in our control are body, property, reputation, command, and, in one word, whatever are not our own actions.",
+        "zh": "有些事在我们控制之内，有些不在……（正文为意译）",
+        "url": "https://classics.mit.edu/Epictetus/epicench.html",
+        "note": "与 Higginson 译本（Project Gutenberg #45109）第 I 章交叉核对，含义一致：https://www.gutenberg.org/ebooks/45109"
+      },
+      {
+        "source": "爱比克泰德《手册》(Enchiridion)",
+        "locator": "第5章，Elizabeth Carter 英译",
+        "original": "Men are disturbed, not by things, but by the principles and notions which they form concerning things.",
+        "zh": "让人不安的不是事情本身，而是我们对事情的看法（意译）",
+        "url": "https://classics.mit.edu/Epictetus/epicench.html",
+        "note": "Higginson 译本：Men are disturbed not by things, but by the views which they take of things."
+      }
+    ],
+    "file": "哲学/2026-11-10-股价不归我管那什么归我管.md"
+  },
+  {
+    "title": "市场先生每天报价，你得接吗？",
+    "line": "价值投资心法",
+    "date": "2026-11-11",
+    "time": "08:35",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/416353766"
+    },
+    "quotes": [
+      {
+        "source": "巴菲特 1987 年致股东信",
+        "locator": "Marketable Securities - Permanent Holdings",
+        "original": "Without fail, Mr. Market appears daily and names a price at which he will either buy your interest or sell you his.",
+        "zh": "故事梗概：合伙人市场先生每天报价，要么买你的，要么卖给你",
+        "url": "https://www.berkshirehathaway.com/letters/1987.html"
+      },
+      {
+        "source": "巴菲特 1987 年致股东信",
+        "locator": "Marketable Securities - Permanent Holdings",
+        "original": "He doesn't mind being ignored. If his quotation is uninteresting to you today, he will be back with a new one tomorrow. Transactions are strictly at your option.",
+        "zh": "他不介意被冷落。今天的报价你没兴趣，明天他会带着新的再来。交不交易，由你说了算。",
+        "url": "https://www.berkshirehathaway.com/letters/1987.html"
+      },
+      {
+        "source": "巴菲特 1987 年致股东信",
+        "locator": "Marketable Securities - Permanent Holdings",
+        "original": "Mr. Market is there to serve you, not to guide you. It is his pocketbook, not his wisdom, that you will find useful.",
+        "zh": "市场先生是来给你服务的，不是来给你指路的。对你有用的是他的钱包，不是他的见识。",
+        "url": "https://www.berkshirehathaway.com/letters/1987.html"
+      },
+      {
+        "source": "巴菲特 1987 年致股东信",
+        "locator": "Marketable Securities - Permanent Holdings",
+        "original": "Indeed, if you aren't certain that you understand and can value your business far better than Mr. Market, you don't belong in the game.",
+        "zh": "正文为大意转述",
+        "url": "https://www.berkshirehathaway.com/letters/1987.html"
+      },
+      {
+        "source": "巴菲特 1987 年致股东信",
+        "locator": "Marketable Securities - Other",
+        "original": "He can be hurt by such volatility only if he is forced, by either financial or psychological pressures, to sell at untoward times.",
+        "zh": "正文为大意转述",
+        "url": "https://www.berkshirehathaway.com/letters/1987.html"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "格雷厄姆《聪明的投资者》",
+        "locator": "第8章 The Investor and Market Fluctuations",
+        "note": "只提到寓言出处，没有直接引用书中原话"
+      }
+    ],
+    "file": "价值投资心法/2026-11-11-市场先生每天报价你得接吗.md"
+  }
+]
