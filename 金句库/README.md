@@ -11,7 +11,7 @@
 - 网上流传很广但在一手来源里找不到原句的，不收，列在文末「未收录」里。
 - 机器可读版本：[quotes.json](./quotes.json)。
 
-现有 46 条，最近核对 2026-11-11。
+现有 48 条，最近核对 2026-11-11。
 
 ## 按出处
 
@@ -20,7 +20,7 @@
 | [巴菲特致股东信](./巴菲特股东信.md) | 18 |
 | [格雷厄姆](./格雷厄姆.md) | 1 |
 | [爱比克泰德《手册》](./爱比克泰德-手册.md) | 5 |
-| [塞涅卡《致卢基里乌斯书信》](./塞涅卡.md) | 4 |
+| [塞涅卡《致卢基里乌斯书信》](./塞涅卡.md) | 6 |
 | [马可·奥勒留《沉思录》](./马可·奥勒留.md) | 4 |
 | [霍华德·马克斯备忘录](./霍华德·马克斯-备忘录.md) | 5 |
 | [行为金融论文](./行为金融论文.md) | 9 |
@@ -50,7 +50,7 @@
 | [BEH-08](./行为金融论文.md#beh-08) | a stock that is up in value is more than 50 percent more … | Odean (1998), Journal of Finance 53(5)，Table I 及正文 |
 | [BEH-09](./行为金融论文.md#beh-09) | For winners that are sold, the average excess return over … | Odean (1998), Journal of Finance 53(5)，正文 |
 
-### 哲学（13）
+### 哲学（15）
 
 | 编号 | 原文（节选） | 出处 |
 |---|---|---|
@@ -63,6 +63,8 @@
 | [SE-02](./塞涅卡.md#se-02) | There are more things, Lucilius, likely to frighten us than … | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第13封信 §4，Gummere 英译 |
 | [SE-03](./塞涅卡.md#se-03) | "Cease to hope," he says, "and you will cease to fear." | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第5封信 §7，Gummere 英译（塞涅卡引赫卡同语） |
 | [SE-04](./塞涅卡.md#se-04) | He suffers more than is necessary, who suffers before it is … | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第98封信 §8，Gummere 英译 |
+| [SE-05](./塞涅卡.md#se-05) | We are in the habit of exaggerating, or imagining, or … | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第13封信 §5，Gummere 英译 |
+| [SE-06](./塞涅卡.md#se-06) | Be sure to foresee whatever can be foreseen by planning. | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第98封信 §7，Gummere 英译 |
 | [MA-01](./马可·奥勒留.md#ma-01) | For the present is the only thing of which a man can be … | 马可·奥勒留《沉思录》(Meditations)，第2卷 §14，George Long 英译 |
 | [MA-02](./马可·奥勒留.md#ma-02) | Take away thy opinion, and then there is taken away the … | 马可·奥勒留《沉思录》(Meditations)，第4卷 §7，George Long 英译 |
 | [MA-03](./马可·奥勒留.md#ma-03) | If thou art pained by any external thing, it is not this … | 马可·奥勒留《沉思录》(Meditations)，第8卷 §47，George Long 英译 |

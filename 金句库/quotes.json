@@ -525,7 +525,9 @@
       "还没跌就先慌：脑子里预演的亏损比真实亏损更磨人",
       "把「最坏情况」写下来，常常发现没那么可怕"
     ],
-    "used_in": [],
+    "used_in": [
+      "哲学-02-想象之苦"
+    ],
     "tags": [
       "恐惧",
       "想象",
@@ -565,10 +567,57 @@
       "提前焦虑不能减少损失，只会多付一份情绪成本",
       "同一段 §7：What madness it is to anticipate one's troubles!"
     ],
-    "used_in": [],
+    "used_in": [
+      "哲学-02-想象之苦"
+    ],
     "tags": [
       "提前焦虑",
       "恐惧",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "SE-05",
+    "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+    "locator": "第13封信 §5，Gummere 英译",
+    "original": "We are in the habit of exaggerating, or imagining, or anticipating, sorrow.",
+    "zh": "（译文）我们习惯于夸大痛苦、想象痛苦，或者预支痛苦。",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "看盘时的三种自我折磨：夸大回撤、把传言当事实、提前预演亏损",
+      "和 SE-02 连读：同一封信紧接着的拆解"
+    ],
+    "used_in": [
+      "哲学-02-想象之苦"
+    ],
+    "tags": [
+      "恐惧",
+      "想象",
+      "提前焦虑",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "SE-06",
+    "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+    "locator": "第98封信 §7，Gummere 英译",
+    "original": "Be sure to foresee whatever can be foreseen by planning.",
+    "zh": "（译文）凡是能靠计划预见的，务必预见到。",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_98",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "反对提前焦虑不等于不管风险：预见要落到计划上",
+      "焦虑在原地打转 vs 计划改变仓位"
+    ],
+    "used_in": [
+      "哲学-02-想象之苦"
+    ],
+    "tags": [
+      "计划",
+      "风险",
       "斯多葛"
     ],
     "line": "哲学"
