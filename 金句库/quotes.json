@@ -1,0 +1,932 @@
+[
+  {
+    "id": "BF-1985-01",
+    "source": "巴菲特 1985 年致股东信",
+    "locator": "Shutdown of Textile Business",
+    "original": "Should you find yourself in a chronically-leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks.",
+    "zh": "（译文）如果你发现自己在一条老是漏水的船上，把力气花在换船上，可能比花在补漏上更有用。",
+    "url": "https://www.berkshirehathaway.com/letters/1985.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "和沉没成本对照：补漏是在保护过去的投入，换船是在保护未来",
+      "硬扛亏损、硬撑烂项目：什么时候该换船"
+    ],
+    "used_in": [],
+    "tags": [
+      "沉没成本",
+      "止损",
+      "换船"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BF-1986-01",
+    "source": "巴菲特 1986 年致股东信",
+    "locator": "Marketable Securities",
+    "original": "Our goal is more modest: we simply attempt to be fearful when others are greedy and to be greedy only when others are fearful.",
+    "zh": "（译文）我们的目标更朴素：别人贪婪时我们试着恐惧，只有在别人恐惧时才贪婪。",
+    "url": "https://www.berkshirehathaway.com/letters/1986.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "这句话常被引用，但巴菲特说的是「试着」和「目标更朴素」：他前一句刚说过无法预测",
+      "「别人恐惧时贪婪」需要的不是勇气，是手里还有钱"
+    ],
+    "used_in": [],
+    "tags": [
+      "恐惧",
+      "贪婪",
+      "逆向"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BF-1987-01",
+    "source": "巴菲特 1987 年致股东信",
+    "locator": "Marketable Securities - Permanent Holdings",
+    "original": "Without fail, Mr. Market appears daily and names a price at which he will either buy your interest or sell you his.",
+    "zh": "（译文）市场先生每天准时出现，报一个价：要么按这个价买你的股份，要么把他的卖给你。",
+    "url": "https://www.berkshirehathaway.com/letters/1987.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "报价天天有，但报价不等于价值：今天的涨跌只是又一个报价",
+      "把「每天看盘」想成「每天收到一张报价单」，心态会不会不一样"
+    ],
+    "used_in": [
+      "心法-01-市场先生"
+    ],
+    "tags": [
+      "市场先生",
+      "报价",
+      "波动"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1987-02",
+    "source": "巴菲特 1987 年致股东信",
+    "locator": "Marketable Securities - Permanent Holdings",
+    "original": "He doesn't mind being ignored. If his quotation is uninteresting to you today, he will be back with a new one tomorrow. Transactions are strictly at your option.",
+    "zh": "（译文）他不介意被冷落。今天的报价你没兴趣，明天他会带着新的再来。交不交易，完全由你决定。",
+    "url": "https://www.berkshirehathaway.com/letters/1987.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "「不交易」也是一个选项：错过一次报价不会怎样",
+      "FOMO 的反面：机会是会反复出现的"
+    ],
+    "used_in": [
+      "心法-01-市场先生"
+    ],
+    "tags": [
+      "市场先生",
+      "不操作",
+      "耐心"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1987-03",
+    "source": "巴菲特 1987 年致股东信",
+    "locator": "Marketable Securities - Permanent Holdings",
+    "original": "Mr. Market is there to serve you, not to guide you. It is his pocketbook, not his wisdom, that you will find useful.",
+    "zh": "（译文）市场先生是来为你服务的，不是来给你指路的。对你有用的是他的钱包，不是他的见识。",
+    "url": "https://www.berkshirehathaway.com/letters/1987.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "把股价当成交易对手的出价，而不是对公司的判决书",
+      "涨了就觉得自己对、跌了就怀疑自己：是不是被价格「指路」了"
+    ],
+    "used_in": [
+      "心法-01-市场先生"
+    ],
+    "tags": [
+      "市场先生",
+      "独立判断"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1987-04",
+    "source": "巴菲特 1987 年致股东信",
+    "locator": "Marketable Securities - Permanent Holdings",
+    "original": "Indeed, if you aren't certain that you understand and can value your business far better than Mr. Market, you don't belong in the game.",
+    "zh": "（译文）说真的，如果你没把握比市场先生更懂、更会估值你持有的生意，你就不该上这个牌桌。",
+    "url": "https://www.berkshirehathaway.com/letters/1987.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "没有比价格更懂，就别和价格较劲：先问自己凭什么",
+      "「能力圈」和「市场先生」其实是同一件事的两面"
+    ],
+    "used_in": [
+      "心法-01-市场先生"
+    ],
+    "tags": [
+      "市场先生",
+      "能力圈",
+      "估值"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1987-05",
+    "source": "巴菲特 1987 年致股东信",
+    "locator": "Marketable Securities - Other",
+    "original": "He can be hurt by such volatility only if he is forced, by either financial or psychological pressures, to sell at untoward times.",
+    "zh": "（译文）只有在资金或心理压力逼他在糟糕的时点卖出时，这种波动才会伤到他。",
+    "url": "https://www.berkshirehathaway.com/letters/1987.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "波动本身不伤人，被迫卖出才伤人：应急钱和仓位的关系",
+      "「心理压力」也算被迫：睡不着的仓位就是太大了"
+    ],
+    "used_in": [
+      "心法-01-市场先生"
+    ],
+    "tags": [
+      "波动",
+      "被迫卖出",
+      "仓位"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BF-1989-01",
+    "source": "巴菲特 1989 年致股东信",
+    "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)",
+    "original": "Time is the friend of the wonderful business, the enemy of the mediocre.",
+    "zh": "（译文）时间是好生意的朋友，平庸生意的敌人。",
+    "url": "https://www.berkshirehathaway.com/letters/1989.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "复利只对好东西有效：习惯、关系、生意都一样",
+      "「便宜」不能弥补「平庸」：时间会把差距放大"
+    ],
+    "used_in": [],
+    "tags": [
+      "时间",
+      "复利",
+      "好生意"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1989-02",
+    "source": "巴菲特 1989 年致股东信",
+    "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)",
+    "original": "Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them.",
+    "zh": "（译文）查理和我并没学会怎么解决困难的商业难题，我们学会的是避开它们。",
+    "url": "https://www.berkshirehathaway.com/letters/1989.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "跨一尺的栏，而不是跳七尺的栏：避开难题也是本事",
+      "投资里「绕开」比「攻克」更常见的智慧"
+    ],
+    "used_in": [],
+    "tags": [
+      "避开难题",
+      "简单",
+      "犯错"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1989-03",
+    "source": "巴菲特 1989 年致股东信",
+    "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)",
+    "original": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price.",
+    "zh": "（译文）以合理价格买一家好公司，远胜于以便宜价格买一家普通公司。",
+    "url": "https://www.berkshirehathaway.com/letters/1989.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "巴菲特自己说「我学得慢」：这句话背后是他的错误清单",
+      "捡便宜的心理：为什么「打折」比「好」更让人心动"
+    ],
+    "used_in": [],
+    "tags": [
+      "好公司",
+      "便宜",
+      "犯错"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1990-01",
+    "source": "巴菲特 1990 年致股东信",
+    "locator": "Marketable Securities",
+    "original": "Lethargy bordering on sloth remains the cornerstone of our investment style",
+    "zh": "（译文）近乎懒散的迟缓，仍是我们投资风格的基石。",
+    "url": "https://www.berkshirehathaway.com/letters/1990.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "「懒」在投资里为什么可能是优点：少动=少犯错的机会",
+      "勤奋用在研究上，懒用在交易上"
+    ],
+    "used_in": [],
+    "tags": [
+      "不操作",
+      "懒",
+      "耐心"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1991-01",
+    "source": "巴菲特 1991 年致股东信",
+    "locator": "Marketable Common Stocks",
+    "original": "Our stay-put behavior reflects our view that the stock market serves as a relocation center at which money is moved from the active to the patient.",
+    "zh": "（译文）我们按兵不动，是因为我们认为股市是一个「搬家中心」，把钱从好动的人那里搬到有耐心的人那里。",
+    "url": "https://www.berkshirehathaway.com/letters/1991.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "钱从哪里流向哪里：频繁交易的人在给谁交学费",
+      "耐心不是美德口号，而是交易结构上的优势"
+    ],
+    "used_in": [],
+    "tags": [
+      "耐心",
+      "频繁交易",
+      "长期"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BF-1994-01",
+    "source": "巴菲特 1994 年致股东信",
+    "locator": "开篇部分（Ted Williams「happy zone」一段之后）",
+    "original": "We will continue to ignore political and economic forecasts, which are an expensive distraction for many investors and businessmen.",
+    "zh": "（译文）我们会继续忽略政治和经济预测，对很多投资者和经营者来说，这些预测是代价高昂的干扰。",
+    "url": "https://www.berkshirehathaway.com/letters/1994.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "预测为什么让人上瘾：它给人一种能控制的错觉",
+      "只在自己的「好球区」挥棒：等待也是一种纪律"
+    ],
+    "used_in": [],
+    "tags": [
+      "预测",
+      "干扰",
+      "好球区"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BF-1996-01",
+    "source": "巴菲特 1996 年致股东信",
+    "locator": "Common Stock Investments",
+    "original": "Inactivity strikes us as intelligent behavior.",
+    "zh": "（译文）在我们看来，按兵不动是一种聪明的做法。",
+    "url": "https://www.berkshirehathaway.com/letters/1996.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "「什么都不做」为什么这么难：人天生觉得行动=负责",
+      "把「今天没交易」当成一种主动决定来记录"
+    ],
+    "used_in": [],
+    "tags": [
+      "不操作",
+      "耐心",
+      "长期"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1996-02",
+    "source": "巴菲特 1996 年致股东信",
+    "locator": "Common Stock Investments",
+    "original": "You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.",
+    "zh": "（译文）你只需要能评估自己能力圈之内的公司。圈子大小不太要紧，知道边界在哪才是关键。",
+    "url": "https://www.berkshirehathaway.com/letters/1996.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "能力圈不是越大越好，而是边界越清楚越好",
+      "写下三个「我真不懂」的行业：承认不懂也是一种能力"
+    ],
+    "used_in": [],
+    "tags": [
+      "能力圈",
+      "边界",
+      "自知"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1996-03",
+    "source": "巴菲特 1996 年致股东信",
+    "locator": "Common Stock Investments",
+    "original": "Your goal as an investor should simply be to purchase, at a rational price, a part interest in an easily-understandable business whose earnings are virtually certain to be materially higher five, ten and twenty years from now.",
+    "zh": "（译文）投资者的目标其实很简单：以合理价格，买下一门容易看懂的生意的一部分，而这门生意五年、十年、二十年后的盈利几乎肯定会明显更高。",
+    "url": "https://www.berkshirehathaway.com/letters/1996.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "把一句话拆成四个检查项：合理价格、看得懂、部分所有权、长期更赚钱",
+      "「容易看懂」为什么排在前面：看不懂的东西拿不住"
+    ],
+    "used_in": [],
+    "tags": [
+      "长期",
+      "看得懂",
+      "合理价格"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-2004-01",
+    "source": "巴菲特 2004 年致股东信",
+    "locator": "开篇部分（Sector Results 之前），谈个人投资者为何跑输",
+    "original": "Investors should remember that excitement and expenses are their enemies.",
+    "zh": "（译文）投资者要记住：兴奋和费用都是自己的敌人。",
+    "url": "https://www.berkshirehathaway.com/letters/2004ltr.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "「兴奋」也算成本：越刺激的操作往往越贵",
+      "把账户 App 的推送关掉一周，看看自己的交易次数会不会变"
+    ],
+    "used_in": [],
+    "tags": [
+      "兴奋",
+      "费用",
+      "频繁交易"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BF-2008-01",
+    "source": "巴菲特 2008 年致股东信",
+    "locator": "开篇部分（Yardsticks 之前）",
+    "original": "Long ago, Ben Graham taught me that \"Price is what you pay; value is what you get.\" Whether we're talking about socks or stocks, I like buying quality merchandise when it is marked down.",
+    "zh": "（译文）很久以前格雷厄姆就教我：价格是你付出的，价值是你得到的。不管是袜子还是股票，我都喜欢在好东西打折时买。",
+    "url": "https://www.berkshirehathaway.com/letters/2008ltr.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "买袜子会等打折，买股票为什么追涨",
+      "价格和价值是两件事：账户市值跌了，你拥有的东西变了吗"
+    ],
+    "used_in": [],
+    "tags": [
+      "价格与价值",
+      "下跌",
+      "格雷厄姆"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "GR-01",
+    "source": "格雷厄姆《聪明的投资者》",
+    "locator": "第20章开头",
+    "original": "Confronted with a like challenge to distill the secret of sound investment into three words, we venture the motto, MARGIN OF SAFETY.",
+    "zh": "（译文）如果要把稳健投资的秘诀浓缩成三个词，我们斗胆给出这句座右铭：安全边际。",
+    "url": "https://www.oreilly.com/library/view/the-intelligent-investor/9780061745171/text/9780061745171_Chapter_20.xhtml",
+    "verified_on": "2026-11-05",
+    "angles": [
+      "给生活留余量和给投资留安全边际是一回事",
+      "安全边际是给「自己会算错」留的位置"
+    ],
+    "used_in": [
+      "思考-01-安全边际"
+    ],
+    "tags": [
+      "安全边际",
+      "保守"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "EP-01",
+    "source": "爱比克泰德《手册》(Enchiridion)",
+    "locator": "第1章，Elizabeth Carter 英译",
+    "original": "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions.",
+    "zh": "（译文）有些事在我们控制之内，有些不在。在我们控制之内的是看法、追求、欲望、厌恶，一句话，凡是我们自己的行为。",
+    "url": "https://classics.mit.edu/Epictetus/epicench.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "股价不归我管，那什么归我管：买入理由、仓位、纪律",
+      "把投资清单分成两栏：控制之内 / 控制之外"
+    ],
+    "used_in": [
+      "哲学-01-控制二分法"
+    ],
+    "tags": [
+      "控制二分法",
+      "可控",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "EP-02",
+    "source": "爱比克泰德《手册》(Enchiridion)",
+    "locator": "第5章，Elizabeth Carter 英译",
+    "original": "Men are disturbed, not by things, but by the principles and notions which they form concerning things.",
+    "zh": "（译文）让人不安的不是事情本身，而是人对事情形成的看法。",
+    "url": "https://classics.mit.edu/Epictetus/epicench.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "账户跌 10% 让人难受，难受的是「我亏了」这个判断",
+      "同一根 K 线，为什么有人慌有人不慌"
+    ],
+    "used_in": [
+      "哲学-01-控制二分法"
+    ],
+    "tags": [
+      "看法",
+      "情绪",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "EP-03",
+    "source": "爱比克泰德《手册》(Enchiridion)",
+    "locator": "第8章，Elizabeth Carter 英译（MIT Classics 版本用词）",
+    "original": "Don't demand that things happen as you wish, but wish that they happen as they do happen, and you will go on well.",
+    "zh": "（译文）别要求事情按你的意愿发生，而是希望它们按实际发生的样子发生，你就会过得顺。",
+    "url": "https://classics.mit.edu/Epictetus/epicench.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "「它应该涨」是一种要求，不是分析",
+      "接受结果不等于认命：复盘时先接受，再找自己能改的"
+    ],
+    "used_in": [],
+    "tags": [
+      "接受",
+      "期待",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "EP-04",
+    "source": "爱比克泰德《手册》(Enchiridion)",
+    "locator": "第11章，Elizabeth Carter 英译",
+    "original": "Never say of anything, \"I have lost it\"; but, \"I have returned it.\"",
+    "zh": "（译文）对任何东西都别说「我失去了它」，而要说「我把它还回去了」。",
+    "url": "https://classics.mit.edu/Epictetus/epicench.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "浮盈回吐时那种「被抢走」的感觉从哪来",
+      "把钱看成「暂时保管」，会不会少一点执念"
+    ],
+    "used_in": [],
+    "tags": [
+      "得失",
+      "执念",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "EP-05",
+    "source": "爱比克泰德《手册》(Enchiridion)",
+    "locator": "第13章，Elizabeth Carter 英译",
+    "original": "If you want to improve, be content to be thought foolish and stupid with regard to external things.",
+    "zh": "（译文）想要进步，就要甘心在外在事物上被人看成傻瓜。",
+    "url": "https://classics.mit.edu/Epictetus/epicench.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "别人都在赚的时候不跟，会显得很傻：能不能接受",
+      "逆向思考的代价首先是社交上的不舒服"
+    ],
+    "used_in": [],
+    "tags": [
+      "从众",
+      "被看傻",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "SE-01",
+    "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+    "locator": "第1封信 §3，Gummere 英译",
+    "original": "Nothing, Lucilius, is ours, except time.",
+    "zh": "（译文）卢基里乌斯，除了时间，没有什么真正属于我们。",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "盯盘的时间也是成本：一天看 50 次行情花掉了什么",
+      "时间是复利唯一的燃料"
+    ],
+    "used_in": [],
+    "tags": [
+      "时间",
+      "注意力",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "SE-02",
+    "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+    "locator": "第13封信 §4，Gummere 英译",
+    "original": "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality.",
+    "zh": "（译文）卢基里乌斯，吓到我们的事，比真正压垮我们的事多；我们在想象中受的苦，比现实中多。",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "还没跌就先慌：脑子里预演的亏损比真实亏损更磨人",
+      "把「最坏情况」写下来，常常发现没那么可怕"
+    ],
+    "used_in": [],
+    "tags": [
+      "恐惧",
+      "想象",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "SE-03",
+    "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+    "locator": "第5封信 §7，Gummere 英译（塞涅卡引赫卡同语）",
+    "original": "\"Cease to hope,\" he says, \"and you will cease to fear.\"",
+    "zh": "（译文）他说：「不再期望，你就不再恐惧。」",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_5",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "希望和恐惧拴在同一根链子上：盼涨越狠，怕跌越狠",
+      "目标价定得越高，持有过程越煎熬"
+    ],
+    "used_in": [],
+    "tags": [
+      "希望",
+      "恐惧",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "SE-04",
+    "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+    "locator": "第98封信 §8，Gummere 英译",
+    "original": "He suffers more than is necessary, who suffers before it is necessary;",
+    "zh": "（译文）在必要之前就受苦的人，受的苦比必要的更多。",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_98",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "提前焦虑不能减少损失，只会多付一份情绪成本",
+      "同一段 §7：What madness it is to anticipate one's troubles!"
+    ],
+    "used_in": [],
+    "tags": [
+      "提前焦虑",
+      "恐惧",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "MA-01",
+    "source": "马可·奥勒留《沉思录》(Meditations)",
+    "locator": "第2卷 §14，George Long 英译",
+    "original": "For the present is the only thing of which a man can be deprived, if it is true that this is the only thing which he has",
+    "zh": "（译文）因为现在是一个人唯一可能被剥夺的东西，如果说这确实是他唯一拥有的东西。",
+    "url": "https://classics.mit.edu/Antoninus/meditations.2.two.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "后悔过去的卖点、担心未来的价格：都不在「现在」",
+      "能做决定的只有当下这一刻"
+    ],
+    "used_in": [],
+    "tags": [
+      "当下",
+      "后悔",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "MA-02",
+    "source": "马可·奥勒留《沉思录》(Meditations)",
+    "locator": "第4卷 §7，George Long 英译",
+    "original": "Take away thy opinion, and then there is taken away the complaint, \"I have been harmed.\" Take away the complaint, \"I have been harmed,\" and the harm is taken away.",
+    "zh": "（译文）去掉你的看法，「我受伤了」的抱怨就没了；去掉「我受伤了」的抱怨，伤害也就没了。",
+    "url": "https://classics.mit.edu/Antoninus/meditations.4.four.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "「我被套了」这个说法本身就让人更难受",
+      "换一种描述：从「被套」到「持有一家公司的一部分」"
+    ],
+    "used_in": [],
+    "tags": [
+      "看法",
+      "抱怨",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "MA-03",
+    "source": "马可·奥勒留《沉思录》(Meditations)",
+    "locator": "第8卷 §47，George Long 英译",
+    "original": "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgement about it. And it is in thy power to wipe out this judgement now.",
+    "zh": "（译文）如果你因外在的事痛苦，扰乱你的不是那件事，而是你对它的判断；而抹掉这个判断，现在就在你能力之内。",
+    "url": "https://classics.mit.edu/Antoninus/meditations.8.eight.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "和爱比克泰德第5章放在一起读：斯多葛的一条主线",
+      "「现在就能」：情绪不是只能等它过去"
+    ],
+    "used_in": [],
+    "tags": [
+      "判断",
+      "情绪",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "MA-04",
+    "source": "马可·奥勒留《沉思录》(Meditations)",
+    "locator": "第12卷 §4，George Long 英译",
+    "original": "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
+    "zh": "（译文）我常常奇怪：每个人爱自己胜过爱别人，却把别人对自己的看法看得比自己的看法更重。",
+    "url": "https://classics.mit.edu/Antoninus/meditations.12.twelve.html",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "晒收益、怕被笑：别人的眼光怎么影响了买卖",
+      "不敢认错卖出，有时是怕面子不是怕亏钱"
+    ],
+    "used_in": [],
+    "tags": [
+      "他人眼光",
+      "面子",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "HM-01",
+    "source": "霍华德·马克斯备忘录 You Can't Predict. You Can Prepare. (2001)",
+    "locator": "开头部分",
+    "original": "All of investing consists of dealing with the future, as I've written before, and the future is something we can't know much about. But the limits on our foreknowledge needn't doom us to failure as long as we acknowledge them and act accordingly.",
+    "zh": "（译文）投资的全部内容都是在应对未来，而未来是我们知之甚少的东西。但只要承认这种局限并据此行动，预知能力有限并不注定失败。",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2001-11-20-you-cant-predict-you-can-prepare.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "预测不了，但能准备：准备的是仓位和现金，不是答案",
+      "「承认不知道」本身就是一种策略"
+    ],
+    "used_in": [],
+    "tags": [
+      "预测",
+      "准备",
+      "不确定"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "HM-02",
+    "source": "霍华德·马克斯备忘录 The Most Important Thing (2003)",
+    "locator": "Patient opportunism 一节",
+    "original": "The most important thing is patient opportunism.",
+    "zh": "（译文）最重要的是有耐心的机会主义。",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2003-07-01-the-most-important-thing.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "耐心和机会主义并不矛盾：平时等，机会来了才动",
+      "马克斯说他们不带「买入清单」出门，而是等电话响"
+    ],
+    "used_in": [],
+    "tags": [
+      "耐心",
+      "机会",
+      "等待"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "HM-03",
+    "source": "霍华德·马克斯备忘录 Dare to Be Great (2006)",
+    "locator": "谈非共识",
+    "original": "Non-consensus ideas have to be lonely.",
+    "zh": "（译文）非共识的想法注定是孤独的。",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2006-09-07-dare-to-be-great.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "想要和别人不一样的结果，就得忍受和别人不一样的孤独",
+      "逆向不是为反而反：孤独只是代价，不是证明"
+    ],
+    "used_in": [],
+    "tags": [
+      "非共识",
+      "逆向",
+      "孤独"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "HM-04",
+    "source": "霍华德·马克斯备忘录 Hindsight First, Please (2005)",
+    "locator": "正文要点",
+    "original": "Investors mustn't dwell excessively on recent experience.",
+    "zh": "（译文）投资者不能过分沉湎于最近的经历。",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2005-10-17-hindsight-first-please-or-what-where-they-thinking.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "近因偏差：最近一个月的行情不等于未来",
+      "牛市里待久了会忘记熊市长什么样"
+    ],
+    "used_in": [],
+    "tags": [
+      "近因偏差",
+      "记忆",
+      "周期"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "HM-05",
+    "source": "霍华德·马克斯备忘录 Getting Lucky (2014)",
+    "locator": "谈随机性",
+    "original": "But even the most rigorously derived view of the future is far from sure to be right.",
+    "zh": "（译文）即使是推导得最严谨的未来判断，也远不能保证正确。",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2014-01-16-getting-lucky.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "分析对了不等于结果对：别用结果反推决策好坏",
+      "运气和能力怎么分：看过程，不只看收益"
+    ],
+    "used_in": [],
+    "tags": [
+      "运气",
+      "不确定",
+      "结果偏差"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BEH-01",
+    "source": "Barber & Odean (2000), Journal of Finance 55(2)",
+    "locator": "摘要",
+    "original": "Individual investors who hold common stocks directly pay a tremendous performance penalty for active trading.",
+    "zh": "（译文）直接持有股票的个人投资者，为频繁交易付出了巨大的业绩代价。",
+    "url": "https://faculty.haas.berkeley.edu/odean/papers%20current%20versions/individual_investor_performance_final.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "交易次数和收益的关系：论文里交易最多的那组跑输市场",
+      "手续费只是看得见的成本，看不见的是选错时机"
+    ],
+    "used_in": [],
+    "tags": [
+      "频繁交易",
+      "过度自信"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BEH-02",
+    "source": "Barber & Odean (2000), Journal of Finance 55(2)",
+    "locator": "摘要",
+    "original": "Overconfidence can explain high trading levels and the resulting poor performance of individual investors. Our central message is that trading is hazardous to your wealth.",
+    "zh": "（译文）过度自信可以解释个人投资者的高交易量和随之而来的差业绩。我们的核心结论是：交易有害你的财富。",
+    "url": "https://faculty.haas.berkeley.edu/odean/papers%20current%20versions/individual_investor_performance_final.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "「我比市场聪明」的感觉，是怎么变成交易次数的",
+      "论文开头引了格雷厄姆：投资者最大的敌人可能是自己"
+    ],
+    "used_in": [],
+    "tags": [
+      "过度自信",
+      "频繁交易"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BEH-03",
+    "source": "Benartzi & Thaler (1995), Quarterly Journal of Economics 110(1)",
+    "locator": "NBER 工作论文 w4369（1993）摘要",
+    "original": "First, investors are assumed to be 'loss averse' meaning they are distinctly more sensitive to losses than to gains. Second, investors are assumed to evaluate their portfolios frequently, even if they have long-term investment goals",
+    "zh": "（译文）第一，假设投资者「厌恶损失」，对亏损明显比对收益更敏感；第二，假设投资者频繁评估自己的组合，哪怕他们的目标是长期的。",
+    "url": "https://www.nber.org/papers/w4369",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "看账户越勤，越容易看到亏损，越拿不住",
+      "长期目标 + 短期评估 = 「短视的损失厌恶」"
+    ],
+    "used_in": [],
+    "tags": [
+      "短视损失厌恶",
+      "看盘频率"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BEH-04",
+    "source": "Tversky & Kahneman (1974), Science 185(4157)",
+    "locator": "摘要（PubMed 记录）",
+    "original": "These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors.",
+    "zh": "（译文）这些启发式非常省力、通常也有效，但会导致系统性的、可预测的错误。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "锚定效应：52 周高点、成本价怎么悄悄影响判断",
+      "「可预测的错误」意味着可以提前设防"
+    ],
+    "used_in": [],
+    "tags": [
+      "启发式",
+      "锚定",
+      "偏差"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BEH-05",
+    "source": "Kahneman & Tversky (1979), Econometrica 47(2)",
+    "locator": "价值函数一节",
+    "original": "A salient characteristic of attitudes to changes in welfare is that losses loom larger than gains.",
+    "zh": "（译文）人们对财富变化的态度有个显著特点：损失看起来比收益更大。",
+    "url": "https://doi.org/10.2307/1914185",
+    "verified_on": "2026-11-09",
+    "angles": [
+      "亏一千和赚一千，感受为什么不对称",
+      "参考点常常是买入价（这是延伸，不是论文原话）"
+    ],
+    "used_in": [
+      "心理-01-处置效应"
+    ],
+    "tags": [
+      "损失厌恶",
+      "前景理论"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BEH-06",
+    "source": "Shefrin & Statman (1985), Journal of Finance 40(3)",
+    "locator": "摘要",
+    "original": "a general disposition to sell winners too early and hold losers too long",
+    "zh": "（译文）一种普遍倾向：赚钱的太早卖，亏钱的拿太久。",
+    "url": "https://doi.org/10.1111/j.1540-6261.1985.tb05002.x",
+    "verified_on": "2026-11-09",
+    "angles": [
+      "「处置效应」这个名字的来历",
+      "四个解释：心理账户、怕后悔、自我控制、税"
+    ],
+    "used_in": [
+      "心理-01-处置效应"
+    ],
+    "tags": [
+      "处置效应"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BEH-07",
+    "source": "Odean (1998), Journal of Finance 53(5)",
+    "locator": "引言首段",
+    "original": "has been labeled the disposition effect by Shefrin and Statman (1985)",
+    "zh": "（译文）（这种倾向）被 Shefrin 和 Statman（1985）称为处置效应。",
+    "url": "https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AreInvestorsReluctant.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "用一手数据检验处置效应：1 万个券商账户"
+    ],
+    "used_in": [
+      "心理-01-处置效应"
+    ],
+    "tags": [
+      "处置效应"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BEH-08",
+    "source": "Odean (1998), Journal of Finance 53(5)",
+    "locator": "Table I 及正文",
+    "original": "a stock that is up in value is more than 50 percent more likely to be sold from day to day than a stock that is down.",
+    "zh": "（译文）按全年算，浮盈的股票某一天被卖掉的可能性比浮亏的高五成多。",
+    "url": "https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AreInvestorsReluctant.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "卖赢家、留输家：数据层面的证据",
+      "12 月方向相反（税务原因），引用时写「按全年算」"
+    ],
+    "used_in": [
+      "心理-01-处置效应"
+    ],
+    "tags": [
+      "处置效应"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BEH-09",
+    "source": "Odean (1998), Journal of Finance 53(5)",
+    "locator": "正文",
+    "original": "For winners that are sold, the average excess return over the following year is 3.4 percent more than it is for losers that are not sold.",
+    "zh": "（译文）被卖掉的赚钱股，之后一年的平均超额收益比留着的亏钱股高 3.4 个百分点。",
+    "url": "https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AreInvestorsReluctant.pdf",
+    "verified_on": "2026-11-11",
+    "angles": [
+      "卖掉的反而更好：处置效应的代价"
+    ],
+    "used_in": [
+      "心理-01-处置效应"
+    ],
+    "tags": [
+      "处置效应"
+    ],
+    "line": "交易心理学"
+  }
+]
