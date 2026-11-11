@@ -22,6 +22,7 @@
 
 | 日期 | 标题 | 发布 |
 |---|---|---|
+| 2026-11-11 | [还没跌就先慌，慌的到底是什么？](./哲学/2026-11-11-还没跌就先慌慌的到底是什么.md) | [雪球](https://xueqiu.com/9624362515/416437551) |
 | 2026-11-10 | [股价不归我管，那什么归我管？](./哲学/2026-11-10-股价不归我管那什么归我管.md) | [雪球](https://xueqiu.com/9624362515/416314266) |
 
 ### 价值投资心法
@@ -35,7 +36,7 @@
 
 ## 引用索引
 
-共 6 个出处，按被引用篇数排序。
+共 7 个出处，按被引用篇数排序。
 
 | 出处 | 引到的位置 | 用到它的文章 | 原文链接 |
 |---|---|---|---|
@@ -43,6 +44,7 @@
 | Kahneman & Tversky (1979), Econometrica 47(2) | 价值函数一节 | [为什么赚了的总想卖，亏了的却舍不得卖？](./交易心理学/2026-11-09-为什么赚了的总想卖亏了的却舍不得卖.md) | [链接](https://doi.org/10.2307/1914185) |
 | Odean (1998), Journal of Finance 53(5) | 引言首段；Table I 及正文；正文 | [为什么赚了的总想卖，亏了的却舍不得卖？](./交易心理学/2026-11-09-为什么赚了的总想卖亏了的却舍不得卖.md) | [链接](https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AreInvestorsReluctant.pdf) |
 | Shefrin & Statman (1985), Journal of Finance 40(3) | 摘要 | [为什么赚了的总想卖，亏了的却舍不得卖？](./交易心理学/2026-11-09-为什么赚了的总想卖亏了的却舍不得卖.md) | [链接](https://doi.org/10.1111/j.1540-6261.1985.tb05002.x) |
+| 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius) | 第13封信 §4，Gummere 英译；第13封信 §5，Gummere 英译；第98封信 §8，Gummere 英译；第98封信 §7，Gummere 英译；第13封信标题（Gummere 英译本） | [还没跌就先慌，慌的到底是什么？](./哲学/2026-11-11-还没跌就先慌慌的到底是什么.md) | [链接1](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13)<br>[链接2](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_98) |
 | 巴菲特 1987 年致股东信 | Marketable Securities - Permanent Holdings；Marketable Securities - Other | [市场先生每天报价，你得接吗？](./价值投资心法/2026-11-11-市场先生每天报价你得接吗.md) | [链接](https://www.berkshirehathaway.com/letters/1987.html) |
 | 爱比克泰德《手册》(Enchiridion) | 第1章，Elizabeth Carter 英译；第5章，Elizabeth Carter 英译 | [股价不归我管，那什么归我管？](./哲学/2026-11-10-股价不归我管那什么归我管.md) | [链接](https://classics.mit.edu/Epictetus/epicench.html) |
 

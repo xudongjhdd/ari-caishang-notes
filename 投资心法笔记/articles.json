@@ -156,5 +156,53 @@
       }
     ],
     "file": "价值投资心法/2026-11-11-市场先生每天报价你得接吗.md"
+  },
+  {
+    "title": "还没跌就先慌，慌的到底是什么？",
+    "line": "哲学",
+    "date": "2026-11-11",
+    "time": "15:40",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/416437551"
+    },
+    "quotes": [
+      {
+        "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+        "locator": "第13封信 §4，Gummere 英译",
+        "original": "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality.",
+        "zh": "卢基里乌斯，吓到我们的事，比真正压垮我们的事多；我们在想象中受的苦，比现实中多。",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13"
+      },
+      {
+        "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+        "locator": "第13封信 §5，Gummere 英译",
+        "original": "We are in the habit of exaggerating, or imagining, or anticipating, sorrow.",
+        "zh": "我们习惯于夸大痛苦、想象痛苦，或者预支痛苦。",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13"
+      },
+      {
+        "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+        "locator": "第98封信 §8，Gummere 英译",
+        "original": "He suffers more than is necessary, who suffers before it is necessary;",
+        "zh": "在必要之前就受苦的人，受的苦比必要的更多。",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_98",
+        "note": "原句分号后还有半句，正文只截到分号"
+      },
+      {
+        "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+        "locator": "第98封信 §7，Gummere 英译",
+        "original": "Be sure to foresee whatever can be foreseen by planning.",
+        "zh": "凡是能靠计划预见的，务必预见到。",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_98"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+        "locator": "第13封信标题（Gummere 英译本）",
+        "note": "On groundless fears，正文提到英译本标题"
+      }
+    ],
+    "file": "哲学/2026-11-11-还没跌就先慌慌的到底是什么.md"
   }
 ]
