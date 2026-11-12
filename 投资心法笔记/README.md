@@ -14,6 +14,7 @@
 
 | 日期 | 标题 | 发布 |
 |---|---|---|
+| 2026-11-12 | [最近的行情，为什么总被当成未来？](./交易心理学/2026-11-12-最近的行情为什么总被当成未来.md) | [雪球](https://xueqiu.com/9624362515/416503475) |
 | 2026-11-09 | [为什么赚了的总想卖，亏了的却舍不得卖？](./交易心理学/2026-11-09-为什么赚了的总想卖亏了的却舍不得卖.md) | [雪球](https://xueqiu.com/9624362515/416126724) |
 
 ### 哲学
@@ -36,7 +37,7 @@
 
 ## 引用索引
 
-共 7 个出处，按被引用篇数排序。
+共 9 个出处，按被引用篇数排序。
 
 | 出处 | 引到的位置 | 用到它的文章 | 原文链接 |
 |---|---|---|---|
@@ -47,6 +48,8 @@
 | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius) | 第13封信 §4，Gummere 英译；第13封信 §5，Gummere 英译；第98封信 §8，Gummere 英译；第98封信 §7，Gummere 英译；第13封信标题（Gummere 英译本） | [还没跌就先慌，慌的到底是什么？](./哲学/2026-11-11-还没跌就先慌慌的到底是什么.md) | [链接1](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13)<br>[链接2](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_98) |
 | 巴菲特 1987 年致股东信 | Marketable Securities - Permanent Holdings；Marketable Securities - Other | [市场先生每天报价，你得接吗？](./价值投资心法/2026-11-11-市场先生每天报价你得接吗.md) | [链接](https://www.berkshirehathaway.com/letters/1987.html) |
 | 爱比克泰德《手册》(Enchiridion) | 第1章，Elizabeth Carter 英译；第5章，Elizabeth Carter 英译 | [股价不归我管，那什么归我管？](./哲学/2026-11-10-股价不归我管那什么归我管.md) | [链接](https://classics.mit.edu/Epictetus/epicench.html) |
+| 霍华德·马克斯备忘录 Getting Lucky (2014) | 第6页，谈随机性 | [最近的行情，为什么总被当成未来？](./交易心理学/2026-11-12-最近的行情为什么总被当成未来.md) | [链接](https://www.oaktreecapital.com/docs/default-source/memos/2014-01-16-getting-lucky.pdf) |
+| 霍华德·马克斯备忘录 Hindsight First, Please (2005) | 第1页，要点清单首条；第12页；第1页，HM-04 后的三条要点；第2页 | [最近的行情，为什么总被当成未来？](./交易心理学/2026-11-12-最近的行情为什么总被当成未来.md) | [链接](https://www.oaktreecapital.com/docs/default-source/memos/2005-10-17-hindsight-first-please-or-what-where-they-thinking.pdf) |
 
 ## 说明
 

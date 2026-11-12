@@ -204,5 +204,54 @@
       }
     ],
     "file": "哲学/2026-11-11-还没跌就先慌慌的到底是什么.md"
+  },
+  {
+    "title": "最近的行情，为什么总被当成未来？",
+    "line": "交易心理学",
+    "date": "2026-11-12",
+    "time": "09:04",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/416503475"
+    },
+    "quotes": [
+      {
+        "source": "霍华德·马克斯备忘录 Hindsight First, Please (2005)",
+        "locator": "第1页，要点清单首条",
+        "original": "Investors mustn’t dwell excessively on recent experience.",
+        "zh": "投资者不能过分沉湎于最近的经历。",
+        "url": "https://www.oaktreecapital.com/docs/default-source/memos/2005-10-17-hindsight-first-please-or-what-where-they-thinking.pdf",
+        "note": "金句库 HM-04。金句库原文撇号为直撇号，此处按 2026-11-12 重新打开的 PDF 用弯撇号，词一致。"
+      },
+      {
+        "source": "霍华德·马克斯备忘录 Hindsight First, Please (2005)",
+        "locator": "第12页",
+        "original": "Recent trends must not be counted on to continue unabated; that’s one of the main lessons of the long-term history that matters.",
+        "zh": "最近的趋势，不能指望它毫无减弱地一直持续；这是那段真正要紧的长期历史给出的主要教训之一。",
+        "url": "https://www.oaktreecapital.com/docs/default-source/memos/2005-10-17-hindsight-first-please-or-what-where-they-thinking.pdf",
+        "note": "金句库以外，2026-11-12 对着官网 PDF 逐字核对。正文整句引用，未改词。"
+      },
+      {
+        "source": "霍华德·马克斯备忘录 Getting Lucky (2014)",
+        "locator": "第6页，谈随机性",
+        "original": "But even the most rigorously derived view of the future is far from sure to be right.",
+        "zh": "即使是推导得最严谨的未来判断，也远不能保证正确。",
+        "url": "https://www.oaktreecapital.com/docs/default-source/memos/2014-01-16-getting-lucky.pdf",
+        "note": "金句库 HM-05。前句转引 Dimson，这句是马克斯自己的话。正文用作更一般的提醒，未写成近因偏差的定义。"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "霍华德·马克斯备忘录 Hindsight First, Please (2005)",
+        "locator": "第1页，HM-04 后的三条要点",
+        "note": "正文转述「放到未来 / 带着审视看眼下 / 放在更长的历史里判断」，不是逐字引文。原句：Instead, they must look to the future. / They must consider today’s developments critically. / That assessment must take place in the light of history’s lessons."
+      },
+      {
+        "source": "霍华德·马克斯备忘录 Hindsight First, Please (2005)",
+        "locator": "第2页",
+        "original": "All too often, investors’ interest in the past is limited to the last few months or perhaps a year or two. They look unskeptically, are dazzled by the high returns they see, and jump aboard for more of the same.",
+        "note": "正文转述，未作直接引文；已于 2026-11-12 核对"
+      }
+    ],
+    "file": "交易心理学/2026-11-12-最近的行情为什么总被当成未来.md"
   }
 ]
