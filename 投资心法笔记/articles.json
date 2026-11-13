@@ -253,5 +253,71 @@
       }
     ],
     "file": "交易心理学/2026-11-12-最近的行情为什么总被当成未来.md"
+  },
+  {
+    "title": "圈子不必大，但边界得清楚",
+    "line": "价值投资心法",
+    "date": "2026-11-13",
+    "time": "11:26",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/416722201"
+    },
+    "quotes": [
+      {
+        "source": "巴菲特 1996 年致股东信",
+        "locator": "Common Stock Investments 一节靠后，Let me add a few thoughts about your own investments 一段",
+        "original": "What an investor needs is the ability to correctly evaluate selected businesses.",
+        "zh": "投资者需要的，是正确评估「选定的」那些生意的能力。",
+        "url": "https://www.berkshirehathaway.com/letters/1996.html",
+        "note": "金句库以外，2026-11-13 对着官网 HTML 逐字核对。前一句 Intelligent investing is not complex... 未写入正文。"
+      },
+      {
+        "source": "巴菲特 1996 年致股东信",
+        "locator": "Common Stock Investments 一节靠后，紧接上一句",
+        "original": "Note that word \"selected\": You don't have to be an expert on every company, or even many.",
+        "zh": "请注意「选定的」这个词：你不必成为每家公司的专家，甚至不必是很多家的专家。",
+        "url": "https://www.berkshirehathaway.com/letters/1996.html",
+        "note": "金句库以外，2026-11-13 核对。selected 两边为直双引号，don't 为直撇号，按页面原样。"
+      },
+      {
+        "source": "巴菲特 1996 年致股东信",
+        "locator": "Common Stock Investments 一节靠后",
+        "original": "You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital.",
+        "zh": "你只需要能评估自己能力圈之内的公司。圈子大小不太要紧，知道边界在哪才是关键。",
+        "url": "https://www.berkshirehathaway.com/letters/1996.html",
+        "note": "金句库 BF-1996-02。2026-11-13 重核，词与金句库一致。"
+      },
+      {
+        "source": "巴菲特 1989 年致股东信",
+        "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)，Easy does it 一条",
+        "original": "Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them.",
+        "zh": "查理和我并没有学会怎么解决困难的商业难题。我们学会的，是避开它们。",
+        "url": "https://www.berkshirehathaway.com/letters/1989.html",
+        "note": "金句库 BF-1989-02。2026-11-13 重核，词一致。页面里 not 为斜体（<I>not</I>），正文已说明。"
+      },
+      {
+        "source": "巴菲特 1989 年致股东信",
+        "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)，紧接上一句",
+        "original": "To the extent we have been successful, it is because we concentrated on identifying one-foot hurdles that we could step over rather than because we acquired any ability to clear seven-footers.",
+        "zh": "我们能做成一些事，是因为专找那些可以跨过去的「一英尺栏」，而不是因为练出会跳「七英尺栏」的本事。",
+        "url": "https://www.berkshirehathaway.com/letters/1989.html",
+        "note": "金句库以外，2026-11-13 对着官网 HTML 逐字核对。金句库 BF-1989-02 的 note 提过同段此句。"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "巴菲特 1996 年致股东信",
+        "locator": "Common Stock Investments 一节靠后",
+        "original": "Should you choose, however, to construct your own portfolio, there are a few thoughts worth remembering.",
+        "note": "正文「对选择自己来组合的人说」是这句的转述，未作直接引文；已于 2026-11-13 核对。"
+      },
+      {
+        "source": "巴菲特 1989 年致股东信",
+        "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)，one-foot hurdles 之后",
+        "original": "The finding may seem unfair, but in both business and investments it is usually far more profitable to simply stick with the easy and obvious than it is to resolve the difficult. On occasion, tough problems must be tackled",
+        "note": "正文「守住简单明白的东西，通常比去攻克难题更划算」「有时候难题必须面对」是这两句的转述，未作直接引文；must 在页面为斜体。已于 2026-11-13 核对。"
+      }
+    ],
+    "file": "价值投资心法/2026-11-13-圈子不必大但边界得清楚.md"
   }
 ]
