@@ -320,5 +320,45 @@
       }
     ],
     "file": "价值投资心法/2026-11-13-圈子不必大但边界得清楚.md"
+  },
+  {
+    "title": "赚过又吐回去，到底亏了什么？",
+    "line": "哲学",
+    "date": "2026-11-15",
+    "time": "17:46",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/416918522"
+    },
+    "quotes": [
+      {
+        "source": "Kahneman & Tversky (1979), Econometrica 47(2)",
+        "locator": "价值函数一节",
+        "original": "A salient characteristic of attitudes to changes in welfare is that losses loom larger than gains.",
+        "zh": "人们对财富变化的态度有个显著特点：损失看起来比收益更大。",
+        "url": "https://doi.org/10.2307/1914185"
+      },
+      {
+        "source": "爱比克泰德《手册》(Enchiridion)",
+        "locator": "第11章，Elizabeth Carter 英译",
+        "original": "Never say of anything, \"I have lost it\"; but, \"I have returned it.\"",
+        "zh": "对任何东西都别说「我失去了它」，而要说「我把它还回去了」。",
+        "url": "https://classics.mit.edu/Epictetus/epicench.html"
+      },
+      {
+        "source": "爱比克泰德《手册》(Enchiridion)",
+        "locator": "第11章，Elizabeth Carter 英译",
+        "original": "While he gives it to you to possess, take care of it; but don't view it as your own, just as travelers view a hotel.",
+        "zh": "在它交给你拥有的时候，好好照看它，但别把它当成自己的，就像旅客看待旅馆那样。",
+        "url": "https://classics.mit.edu/Epictetus/epicench.html"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "Kahneman & Tversky (1979), Econometrica 47(2)",
+        "locator": "前景理论",
+        "note": "得失相对参考点衡量；「参考点挪到最高点」是作者自己的理解，正文已注明不是论文原话"
+      }
+    ],
+    "file": "哲学/2026-11-15-赚过又吐回去到底亏了什么.md"
   }
 ]
