@@ -360,5 +360,38 @@
       }
     ],
     "file": "哲学/2026-11-15-赚过又吐回去到底亏了什么.md"
+  },
+  {
+    "title": "「等回本就卖」，这个本是谁定的？",
+    "line": "交易心理学",
+    "date": "2026-11-16",
+    "time": "12:51",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/417004256"
+    },
+    "quotes": [
+      {
+        "source": "Tversky & Kahneman (1974), Science 185(4157)",
+        "locator": "摘要",
+        "original": "These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors.",
+        "zh": "这些启发式非常省力、通常也有效，但会带来系统性的、可预测的错误。",
+        "url": "https://doi.org/10.1126/science.185.4157.1124"
+      },
+      {
+        "source": "Kahneman & Tversky (1979), Econometrica 47(2)",
+        "locator": "第287页，参考点移动的讨论",
+        "original": "This analysis suggests that a person who has not made peace with his losses is likely to accept gambles that would be unacceptable to him otherwise.",
+        "zh": "这个分析表明，一个还没跟自己的亏损和解的人，很可能会接受本来不会接受的赌局。",
+        "url": "https://doi.org/10.2307/1914185"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "Tversky & Kahneman (1974), Science 185(4157)",
+        "locator": "摘要",
+        "note": "调整与锚定启发式；把成本价看成锚是作者自己的联想，正文已注明论文讲的不是炒股"
+      }
+    ],
+    "file": "交易心理学/2026-11-16-「等回本就卖」这个本是谁定的.md"
   }
 ]
