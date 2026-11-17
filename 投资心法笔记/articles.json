@@ -393,5 +393,46 @@
       }
     ],
     "file": "交易心理学/2026-11-16-「等回本就卖」这个本是谁定的.md"
+  },
+  {
+    "title": "「便宜」这件事，巴菲特说他学了好几遍",
+    "line": "价值投资心法",
+    "date": "2026-11-17",
+    "time": "17:41",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/417257322"
+    },
+    "quotes": [
+      {
+        "source": "巴菲特 1989 年致股东信",
+        "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)，第一条",
+        "original": "Time is the friend of the wonderful business, the enemy of the mediocre.",
+        "zh": "时间是好生意的朋友，平庸生意的敌人。",
+        "url": "https://www.berkshirehathaway.com/letters/1989.html",
+        "note": "金句库 BF-1989-01。2026-11-17 对着官网原信重核，逐字一致。"
+      },
+      {
+        "source": "巴菲特 1989 年致股东信",
+        "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)，第一条，紧接 Time is the friend 之后",
+        "original": "I had to learn it the hard way - in fact, I had to learn it several times over.",
+        "zh": "我是吃了苦头才学会的，其实还学了好几遍。",
+        "url": "https://www.berkshirehathaway.com/letters/1989.html",
+        "note": "金句库以外，2026-11-17 对着官网原信逐字核对。"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "巴菲特 1989 年致股东信",
+        "locator": "同节第一条",
+        "original": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price. Charlie understood this early; I was a slow learner.",
+        "note": "金句库 BF-1989-03，正文为中文转述，未作直接引文；2026-11-17 重核。"
+      },
+      {
+        "source": "巴菲特 1989 年致股东信",
+        "locator": "同节第一条",
+        "note": "烟蒂投资（cigar butt）的比喻、纺织生意 unpromising 却因 price looked cheap 而买、Hochschild Kohn 折价买入三年后 lucky to sell for about what I had paid、Unless you are a liquidator、早年 reasonably rewarding，均为转述，2026-11-17 核对。"
+      }
+    ],
+    "file": "价值投资心法/2026-11-17-「便宜」这件事巴菲特说他学了好几遍.md"
   }
 ]
