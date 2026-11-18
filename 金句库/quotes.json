@@ -149,6 +149,26 @@
     "line": "交易心理学"
   },
   {
+    "id": "BF-1988-01",
+    "source": "巴菲特 1988 年致股东信",
+    "locator": "Marketable Securities 一节，谈到 1988 年买入 Freddie Mac 和可口可乐",
+    "original": "In fact, when we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever.",
+    "zh": "（译文）事实上，当我们持有的是出色的企业、又有出色的管理层时，我们最喜欢的持有期是永远。",
+    "url": "https://www.berkshirehathaway.com/letters/1988.html",
+    "verified_on": "2026-11-18",
+    "angles": [
+      "「永远」说的不是不能卖，而是好生意不必急着卖",
+      "后文引了彼得·林奇的比喻：剪掉鲜花、给杂草浇水，和急着卖掉赚钱的股票是同一类事"
+    ],
+    "used_in": [],
+    "tags": [
+      "持有",
+      "长期",
+      "好生意"
+    ],
+    "line": "价值投资心法"
+  },
+  {
     "id": "BF-1989-01",
     "source": "巴菲特 1989 年致股东信",
     "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)",
@@ -160,7 +180,9 @@
       "复利只对好东西有效：习惯、关系、生意都一样",
       "「便宜」不能弥补「平庸」：时间会把差距放大"
     ],
-    "used_in": [],
+    "used_in": [
+      "心法-03-便宜"
+    ],
     "tags": [
       "时间",
       "复利",
@@ -180,7 +202,9 @@
       "跨一尺的栏，而不是跳七尺的栏：避开难题也是本事",
       "投资里「绕开」比「攻克」更常见的智慧"
     ],
-    "used_in": [],
+    "used_in": [
+      "心法-02-能力圈"
+    ],
     "tags": [
       "避开难题",
       "简单",
@@ -205,6 +229,50 @@
       "好公司",
       "便宜",
       "犯错"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1989-04",
+    "source": "巴菲特 1989 年致股东信",
+    "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)，Easy does it 一条，紧接 BF-1989-02 之后",
+    "original": "To the extent we have been successful, it is because we concentrated on identifying one-foot hurdles that we could step over rather than because we acquired any ability to clear seven-footers.",
+    "zh": "（译文）我们能做成一些事，是因为专找那些可以跨过去的「一英尺栏」，而不是因为练出会跳「七英尺栏」的本事。",
+    "url": "https://www.berkshirehathaway.com/letters/1989.html",
+    "verified_on": "2026-11-18",
+    "angles": [
+      "和 BF-1989-02 连读：避开难题之后，具体办法是专找「一英尺栏」",
+      "能力圈也可以理解成：只跨得过的栏，不硬跳更高的栏"
+    ],
+    "used_in": [
+      "心法-02-能力圈"
+    ],
+    "tags": [
+      "能力圈",
+      "简单",
+      "避开难题"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1989-05",
+    "source": "巴菲特 1989 年致股东信",
+    "locator": "Mistakes of the First Twenty-five Years (A Condensed Version)，第一条，紧接 Time is the friend 之后",
+    "original": "You might think this principle is obvious, but I had to learn it the hard way - in fact, I had to learn it several times over.",
+    "zh": "（译文）你也许会觉得这个道理显而易见，但我是吃了苦头才学会的——其实还学了好几遍。",
+    "url": "https://www.berkshirehathaway.com/letters/1989.html",
+    "verified_on": "2026-11-18",
+    "angles": [
+      "道理看懂了不等于学会了：同一笔学费有时会交好几次",
+      "和 BF-1989-01 连读：时间是好生意的朋友，这句说的就是他学了好几遍的那条"
+    ],
+    "used_in": [
+      "心法-03-便宜"
+    ],
+    "tags": [
+      "犯错",
+      "学习",
+      "好生意"
     ],
     "line": "价值投资心法"
   },
@@ -300,7 +368,9 @@
       "能力圈不是越大越好，而是边界越清楚越好",
       "写下三个「我真不懂」的行业：承认不懂也是一种能力"
     ],
-    "used_in": [],
+    "used_in": [
+      "心法-02-能力圈"
+    ],
     "tags": [
       "能力圈",
       "边界",
@@ -325,6 +395,28 @@
       "长期",
       "看得懂",
       "合理价格"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1996-05",
+    "source": "巴菲特 1996 年致股东信",
+    "locator": "Common Stock Investments 一节靠后，紧接「evaluate selected businesses」一句之后",
+    "original": "Note that word \"selected\": You don't have to be an expert on every company, or even many.",
+    "zh": "（译文）请注意「选定的」这个词：你不必成为每家公司的专家，甚至不必是很多家的专家。",
+    "url": "https://www.berkshirehathaway.com/letters/1996.html",
+    "verified_on": "2026-11-18",
+    "angles": [
+      "能力圈的关键不在「懂多少」，而在「选定」：先圈出那几家",
+      "和 BF-1996-02 连读：同一段里，从「选定」说到「边界」"
+    ],
+    "used_in": [
+      "心法-02-能力圈"
+    ],
+    "tags": [
+      "能力圈",
+      "边界",
+      "自知"
     ],
     "line": "价值投资心法"
   },
@@ -465,7 +557,9 @@
       "浮盈回吐时那种「被抢走」的感觉从哪来",
       "把钱看成「暂时保管」，会不会少一点执念"
     ],
-    "used_in": [],
+    "used_in": [
+      "哲学-03-还回去"
+    ],
     "tags": [
       "得失",
       "执念",
@@ -489,6 +583,28 @@
     "tags": [
       "从众",
       "被看傻",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "EP-06",
+    "source": "爱比克泰德《手册》(Enchiridion)",
+    "locator": "第11章，Elizabeth Carter 英译，紧接 EP-04 之后",
+    "original": "While he gives it to you to possess, take care of it; but don't view it as your own, just as travelers view a hotel.",
+    "zh": "（译文）在它交给你拥有的时候，好好照看它，但别把它当成自己的，就像旅客看待旅馆那样。",
+    "url": "https://classics.mit.edu/Epictetus/epicench.html",
+    "verified_on": "2026-11-18",
+    "angles": [
+      "股票在账户里，更像客房而不像房产：住着时照料，离开时还回去",
+      "和 EP-04 连读：同一章里，从「还回去」到「别当成自己的」"
+    ],
+    "used_in": [
+      "哲学-03-还回去"
+    ],
+    "tags": [
+      "得失",
+      "执念",
       "斯多葛"
     ],
     "line": "哲学"
@@ -618,6 +734,26 @@
     "tags": [
       "计划",
       "风险",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "SE-07",
+    "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+    "locator": "第18封信 §6，Gummere 英译",
+    "original": "It is precisely in times of immunity from care that the soul should toughen itself beforehand for occasions of greater stress, and it is while Fortune is kind that it should fortify itself against her violence.",
+    "zh": "（译文）恰恰是在无忧无虑的时候，心灵才应当事先为更大的压力做好准备；也正是在命运善待你的时候，才应当加固自己，好抵御她的暴虐。",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18",
+    "verified_on": "2026-11-18",
+    "angles": [
+      "行情好的时候才有空间练纪律：等亏了再谈规则，往往已经晚了",
+      "同段还有一句：If you would not have a man flinch when the crisis comes, train him before it comes. 可与 SE-06、HM-01 对照"
+    ],
+    "used_in": [],
+    "tags": [
+      "准备",
+      "纪律",
       "斯多葛"
     ],
     "line": "哲学"
@@ -774,7 +910,9 @@
       "近因偏差：最近一个月的行情不等于未来",
       "牛市里待久了会忘记熊市长什么样"
     ],
-    "used_in": [],
+    "used_in": [
+      "心理-02-近因偏差"
+    ],
     "tags": [
       "近因偏差",
       "记忆",
@@ -794,11 +932,55 @@
       "分析对了不等于结果对：别用结果反推决策好坏",
       "运气和能力怎么分：看过程，不只看收益"
     ],
-    "used_in": [],
+    "used_in": [
+      "心理-02-近因偏差"
+    ],
     "tags": [
       "运气",
       "不确定",
       "结果偏差"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "HM-06",
+    "source": "霍华德·马克斯备忘录 Hindsight First, Please (2005)",
+    "locator": "第12页",
+    "original": "Recent trends must not be counted on to continue unabated; that's one of the main lessons of the long-term history that matters.",
+    "zh": "（译文）最近的趋势，不能指望它毫无减弱地一直持续；这是那段真正要紧的长期历史给出的主要教训之一。",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2005-10-17-hindsight-first-please-or-what-where-they-thinking.pdf",
+    "verified_on": "2026-11-18",
+    "angles": [
+      "和 HM-04 连读：别把最近的行情当成未来，最近的趋势也不会直线走下去",
+      "「这次不一样」往往藏在「趋势会一直持续」这个假设里"
+    ],
+    "used_in": [
+      "心理-02-近因偏差"
+    ],
+    "tags": [
+      "近因偏差",
+      "周期",
+      "趋势"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "HM-07",
+    "source": "霍华德·马克斯备忘录 Getting Lucky (2014)",
+    "locator": "第7页，谈随机性与决策",
+    "original": "The first thing I remember learning at Wharton in 1963 was that the correctness of a decision can't be judged from the outcome. Because of the randomness at work in the world and the unpredictability of the future, lots of bad decisions lead to good results, and lots of good decisions end in failure.",
+    "zh": "（译文）我还记得 1963 年在沃顿学到的第一件事：不能根据结果来判断一个决策对不对。因为世上有随机性，未来也难以预料，很多糟糕的决策会有好结果，很多好的决策也会以失败告终。",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2014-01-16-getting-lucky.pdf",
+    "verified_on": "2026-11-18",
+    "angles": [
+      "赚了未必是对，亏了未必是错：复盘时先看当时的理由，再看结果",
+      "把一次好运当成自己的水平，下一次就容易放大风险"
+    ],
+    "used_in": [],
+    "tags": [
+      "过程",
+      "结果偏差",
+      "运气"
     ],
     "line": "交易心理学"
   },
@@ -871,7 +1053,9 @@
       "锚定效应：52 周高点、成本价怎么悄悄影响判断",
       "「可预测的错误」意味着可以提前设防"
     ],
-    "used_in": [],
+    "used_in": [
+      "心理-03-回本"
+    ],
     "tags": [
       "启发式",
       "锚定",
@@ -892,7 +1076,8 @@
       "参考点常常是买入价（这是延伸，不是论文原话）"
     ],
     "used_in": [
-      "心理-01-处置效应"
+      "心理-01-处置效应",
+      "哲学-03-还回去"
     ],
     "tags": [
       "损失厌恶",

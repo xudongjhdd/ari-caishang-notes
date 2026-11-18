@@ -11,23 +11,23 @@
 - 网上流传很广但在一手来源里找不到原句的，不收，列在文末「未收录」里。
 - 机器可读版本：[quotes.json](./quotes.json)。
 
-现有 48 条，最近核对 2026-11-11。
+现有 56 条，最近核对 2026-11-18。
 
 ## 按出处
 
 | 出处 | 条数 |
 |---|---|
-| [巴菲特致股东信](./巴菲特股东信.md) | 18 |
+| [巴菲特致股东信](./巴菲特股东信.md) | 22 |
 | [格雷厄姆](./格雷厄姆.md) | 1 |
-| [爱比克泰德《手册》](./爱比克泰德-手册.md) | 5 |
-| [塞涅卡《致卢基里乌斯书信》](./塞涅卡.md) | 6 |
+| [爱比克泰德《手册》](./爱比克泰德-手册.md) | 6 |
+| [塞涅卡《致卢基里乌斯书信》](./塞涅卡.md) | 7 |
 | [马可·奥勒留《沉思录》](./马可·奥勒留.md) | 4 |
-| [霍华德·马克斯备忘录](./霍华德·马克斯-备忘录.md) | 5 |
+| [霍华德·马克斯备忘录](./霍华德·马克斯-备忘录.md) | 7 |
 | [行为金融论文](./行为金融论文.md) | 9 |
 
 ## 按主题线
 
-### 交易心理学（18）
+### 交易心理学（20）
 
 | 编号 | 原文（节选） | 出处 |
 |---|---|---|
@@ -40,6 +40,8 @@
 | [HM-03](./霍华德·马克斯-备忘录.md#hm-03) | Non-consensus ideas have to be lonely. | 霍华德·马克斯备忘录 Dare to Be Great (2006)，谈非共识 |
 | [HM-04](./霍华德·马克斯-备忘录.md#hm-04) | Investors mustn't dwell excessively on recent experience. | 霍华德·马克斯备忘录 Hindsight First, Please (2005)，正文要点 |
 | [HM-05](./霍华德·马克斯-备忘录.md#hm-05) | But even the most rigorously derived view of the future is … | 霍华德·马克斯备忘录 Getting Lucky (2014)，谈随机性 |
+| [HM-06](./霍华德·马克斯-备忘录.md#hm-06) | Recent trends must not be counted on to continue unabated; … | 霍华德·马克斯备忘录 Hindsight First, Please (2005)，第12页 |
+| [HM-07](./霍华德·马克斯-备忘录.md#hm-07) | The first thing I remember learning at Wharton in 1963 was … | 霍华德·马克斯备忘录 Getting Lucky (2014)，第7页，谈随机性与决策 |
 | [BEH-01](./行为金融论文.md#beh-01) | Individual investors who hold common stocks directly pay a … | Barber & Odean (2000), Journal of Finance 55(2)，摘要 |
 | [BEH-02](./行为金融论文.md#beh-02) | Overconfidence can explain high trading levels and the … | Barber & Odean (2000), Journal of Finance 55(2)，摘要 |
 | [BEH-03](./行为金融论文.md#beh-03) | First, investors are assumed to be 'loss averse' meaning … | Benartzi & Thaler (1995), Quarterly Journal of Economics 110(1)，NBER 工作论文 w4369（1993）摘要 |
@@ -50,7 +52,7 @@
 | [BEH-08](./行为金融论文.md#beh-08) | a stock that is up in value is more than 50 percent more … | Odean (1998), Journal of Finance 53(5)，Table I 及正文 |
 | [BEH-09](./行为金融论文.md#beh-09) | For winners that are sold, the average excess return over … | Odean (1998), Journal of Finance 53(5)，正文 |
 
-### 哲学（15）
+### 哲学（17）
 
 | 编号 | 原文（节选） | 出处 |
 |---|---|---|
@@ -59,18 +61,20 @@
 | [EP-03](./爱比克泰德-手册.md#ep-03) | Don't demand that things happen as you wish, but wish that … | 爱比克泰德《手册》(Enchiridion)，第8章，Elizabeth Carter 英译（MIT Classics 版本用词） |
 | [EP-04](./爱比克泰德-手册.md#ep-04) | Never say of anything, "I have lost it"; but, "I have … | 爱比克泰德《手册》(Enchiridion)，第11章，Elizabeth Carter 英译 |
 | [EP-05](./爱比克泰德-手册.md#ep-05) | If you want to improve, be content to be thought foolish … | 爱比克泰德《手册》(Enchiridion)，第13章，Elizabeth Carter 英译 |
+| [EP-06](./爱比克泰德-手册.md#ep-06) | While he gives it to you to possess, take care of it; but … | 爱比克泰德《手册》(Enchiridion)，第11章，Elizabeth Carter 英译，紧接 EP-04 之后 |
 | [SE-01](./塞涅卡.md#se-01) | Nothing, Lucilius, is ours, except time. | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第1封信 §3，Gummere 英译 |
 | [SE-02](./塞涅卡.md#se-02) | There are more things, Lucilius, likely to frighten us than … | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第13封信 §4，Gummere 英译 |
 | [SE-03](./塞涅卡.md#se-03) | "Cease to hope," he says, "and you will cease to fear." | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第5封信 §7，Gummere 英译（塞涅卡引赫卡同语） |
 | [SE-04](./塞涅卡.md#se-04) | He suffers more than is necessary, who suffers before it is … | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第98封信 §8，Gummere 英译 |
 | [SE-05](./塞涅卡.md#se-05) | We are in the habit of exaggerating, or imagining, or … | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第13封信 §5，Gummere 英译 |
 | [SE-06](./塞涅卡.md#se-06) | Be sure to foresee whatever can be foreseen by planning. | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第98封信 §7，Gummere 英译 |
+| [SE-07](./塞涅卡.md#se-07) | It is precisely in times of immunity from care that the … | 塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)，第18封信 §6，Gummere 英译 |
 | [MA-01](./马可·奥勒留.md#ma-01) | For the present is the only thing of which a man can be … | 马可·奥勒留《沉思录》(Meditations)，第2卷 §14，George Long 英译 |
 | [MA-02](./马可·奥勒留.md#ma-02) | Take away thy opinion, and then there is taken away the … | 马可·奥勒留《沉思录》(Meditations)，第4卷 §7，George Long 英译 |
 | [MA-03](./马可·奥勒留.md#ma-03) | If thou art pained by any external thing, it is not this … | 马可·奥勒留《沉思录》(Meditations)，第8卷 §47，George Long 英译 |
 | [MA-04](./马可·奥勒留.md#ma-04) | I have often wondered how it is that every man loves … | 马可·奥勒留《沉思录》(Meditations)，第12卷 §4，George Long 英译 |
 
-### 价值投资心法（15）
+### 价值投资心法（19）
 
 | 编号 | 原文（节选） | 出处 |
 |---|---|---|
@@ -78,13 +82,17 @@
 | [BF-1987-02](./巴菲特股东信.md#bf-1987-02) | He doesn't mind being ignored. If his quotation is … | 巴菲特 1987 年致股东信，Marketable Securities - Permanent Holdings |
 | [BF-1987-03](./巴菲特股东信.md#bf-1987-03) | Mr. Market is there to serve you, not to guide you. It is … | 巴菲特 1987 年致股东信，Marketable Securities - Permanent Holdings |
 | [BF-1987-04](./巴菲特股东信.md#bf-1987-04) | Indeed, if you aren't certain that you understand and can … | 巴菲特 1987 年致股东信，Marketable Securities - Permanent Holdings |
+| [BF-1988-01](./巴菲特股东信.md#bf-1988-01) | In fact, when we own portions of outstanding businesses … | 巴菲特 1988 年致股东信，Marketable Securities 一节，谈到 1988 年买入 Freddie Mac 和可口可乐 |
 | [BF-1989-01](./巴菲特股东信.md#bf-1989-01) | Time is the friend of the wonderful business, the enemy of … | 巴菲特 1989 年致股东信，Mistakes of the First Twenty-five Years (A Condensed Version) |
 | [BF-1989-02](./巴菲特股东信.md#bf-1989-02) | Charlie and I have not learned how to solve difficult … | 巴菲特 1989 年致股东信，Mistakes of the First Twenty-five Years (A Condensed Version) |
 | [BF-1989-03](./巴菲特股东信.md#bf-1989-03) | It's far better to buy a wonderful company at a fair price … | 巴菲特 1989 年致股东信，Mistakes of the First Twenty-five Years (A Condensed Version) |
+| [BF-1989-04](./巴菲特股东信.md#bf-1989-04) | To the extent we have been successful, it is because we … | 巴菲特 1989 年致股东信，Mistakes of the First Twenty-five Years (A Condensed Version)，Easy does it 一条，紧接 BF-1989-02 之后 |
+| [BF-1989-05](./巴菲特股东信.md#bf-1989-05) | You might think this principle is obvious, but I had to … | 巴菲特 1989 年致股东信，Mistakes of the First Twenty-five Years (A Condensed Version)，第一条，紧接 Time is the friend 之后 |
 | [BF-1990-01](./巴菲特股东信.md#bf-1990-01) | Lethargy bordering on sloth remains the cornerstone of our … | 巴菲特 1990 年致股东信，Marketable Securities |
 | [BF-1996-01](./巴菲特股东信.md#bf-1996-01) | Inactivity strikes us as intelligent behavior. | 巴菲特 1996 年致股东信，Common Stock Investments |
 | [BF-1996-02](./巴菲特股东信.md#bf-1996-02) | You only have to be able to evaluate companies within your … | 巴菲特 1996 年致股东信，Common Stock Investments |
 | [BF-1996-03](./巴菲特股东信.md#bf-1996-03) | Your goal as an investor should simply be to purchase, at a … | 巴菲特 1996 年致股东信，Common Stock Investments |
+| [BF-1996-05](./巴菲特股东信.md#bf-1996-05) | Note that word "selected": You don't have to be an expert … | 巴菲特 1996 年致股东信，Common Stock Investments 一节靠后，紧接「evaluate selected businesses」一句之后 |
 | [BF-2008-01](./巴菲特股东信.md#bf-2008-01) | Long ago, Ben Graham taught me that "Price is what you pay; … | 巴菲特 2008 年致股东信，开篇部分（Yardsticks 之前） |
 | [GR-01](./格雷厄姆.md#gr-01) | Confronted with a like challenge to distill the secret of … | 格雷厄姆《聪明的投资者》，第20章开头 |
 | [HM-01](./霍华德·马克斯-备忘录.md#hm-01) | All of investing consists of dealing with the future, as … | 霍华德·马克斯备忘录 You Can't Predict. You Can Prepare. (2001)，开头部分 |
