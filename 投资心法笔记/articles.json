@@ -434,5 +434,52 @@
       }
     ],
     "file": "价值投资心法/2026-11-17-「便宜」这件事巴菲特说他学了好几遍.md"
+  },
+  {
+    "title": "最喜欢的持有期是永远，前面还有半句",
+    "line": "价值投资心法",
+    "date": "2026-11-23",
+    "time": "15:46",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/418172984"
+    },
+    "quotes": [
+      {
+        "source": "巴菲特 1988 年致股东信",
+        "locator": "Marketable Securities 一节，In 1988 we made major purchases of ... Freddie Mac and Coca Cola 一段",
+        "original": "In fact, when we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever.",
+        "zh": "事实上，当我们持有的是出色的企业、又有出色的管理层时，我们最喜欢的持有期是永远。",
+        "url": "https://www.berkshirehathaway.com/letters/1988.html",
+        "note": "金句库 BF-1988-01。2026-11-23 对着官网原信重核，逐字一致。"
+      },
+      {
+        "source": "巴菲特 1988 年致股东信",
+        "locator": "Marketable Securities 一节，同段，紧接 our favorite holding period is forever 之后",
+        "original": "We are just the opposite of those who hurry to sell and book profits when companies perform well but who tenaciously hang on to businesses that disappoint.",
+        "zh": "有些人在公司表现好的时候急着卖掉、把利润落袋，对让人失望的生意却死死抱着不放，我们正好相反。",
+        "url": "https://www.berkshirehathaway.com/letters/1988.html",
+        "note": "金句库以外，2026-11-23 对着官网原信逐字核对。"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "巴菲特 1988 年致股东信",
+        "locator": "同段，紧接 We are just the opposite 之后",
+        "original": "Peter Lynch aptly likens such behavior to cutting the flowers and watering the weeds.",
+        "note": "巴菲特在信里转述彼得·林奇的比喻，正文为中文转述并注明是信里提到的，未引林奇原书；2026-11-23 核对。"
+      },
+      {
+        "source": "巴菲特 1988 年致股东信",
+        "locator": "同段开头",
+        "note": "1988 年大笔买入房地美优先股和可口可乐、We expect to hold these securities for a long time，均为转述，2026-11-23 核对。"
+      },
+      {
+        "source": "巴菲特 2000 年致股东信",
+        "locator": "投资部分，In 2000, we sold nearly all of our Freddie Mac and Fannie Mae shares",
+        "original": "In 2000, we sold nearly all of our Freddie Mac and Fannie Mae shares",
+        "note": "正文转述「把房地美和房利美卖得差不多了」，原句未说明原因，正文未猜测；URL https://www.berkshirehathaway.com/2000ar/2000letter.html ，2026-11-23 核对。"
+      }
+    ],
+    "file": "价值投资心法/2026-11-23-最喜欢的持有期是永远前面还有半句.md"
   }
 ]
