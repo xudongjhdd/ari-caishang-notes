@@ -1,5 +1,48 @@
 [
   {
+    "id": "BF-1977-01",
+    "source": "巴菲特 1977 年致股东信",
+    "locator": "Insurance Underwriting 第3段末句",
+    "original": "One of the lessons your management has learned - and, unfortunately, sometimes re-learned - is the importance of being in businesses where tailwinds prevail rather than headwinds.",
+    "zh": "（试译）管理层学到的教训之一（遗憾的是，有时还得再学一遍），就是要待在顺风的生意里，而不是逆风的生意里。",
+    "url": "https://www.berkshirehathaway.com/letters/1977.html",
+    "verified_on": "2026-11-21",
+    "angles": [
+      "生意本身的风向，可能比管理层多努力更要紧",
+      "连巴菲特也要“再学一遍”的教训"
+    ],
+    "used_in": [
+      "股东信精读-1977"
+    ],
+    "tags": [
+      "顺风逆风",
+      "生意本质",
+      "纺织"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1977-02",
+    "source": "巴菲特 1977 年致股东信",
+    "locator": "Insurance Investments 第3段末句",
+    "original": "So much for single year snapshots as adequate portrayals of a business.",
+    "zh": "（试译）拿某一年的快照来描述一家企业，也就这么回事了。",
+    "url": "https://www.berkshirehathaway.com/letters/1977.html",
+    "verified_on": "2026-11-21",
+    "angles": [
+      "1948年的纺织巨头，十年后亏损缩水：别用一年的数据下结论"
+    ],
+    "used_in": [
+      "股东信精读-1977"
+    ],
+    "tags": [
+      "长期",
+      "财报",
+      "一年的数据"
+    ],
+    "line": "价值投资心法"
+  },
+  {
     "id": "BF-1985-01",
     "source": "巴菲特 1985 年致股东信",
     "locator": "Shutdown of Textile Business",
@@ -160,10 +203,34 @@
       "「永远」说的不是不能卖，而是好生意不必急着卖",
       "后文引了彼得·林奇的比喻：剪掉鲜花、给杂草浇水，和急着卖掉赚钱的股票是同一类事"
     ],
-    "used_in": [],
+    "used_in": [
+      "心法-04-永远持有"
+    ],
     "tags": [
       "持有",
       "长期",
+      "好生意"
+    ],
+    "line": "价值投资心法"
+  },
+  {
+    "id": "BF-1988-02",
+    "source": "巴菲特 1988 年致股东信",
+    "locator": "Marketable Securities 一节，紧接 our favorite holding period is forever 之后",
+    "original": "We are just the opposite of those who hurry to sell and book profits when companies perform well but who tenaciously hang on to businesses that disappoint.",
+    "zh": "（译文）有些人在公司表现好的时候急着卖掉、把利润落袋，对让人失望的生意却死死抱着不放，我们正好相反。",
+    "url": "https://www.berkshirehathaway.com/letters/1988.html",
+    "verified_on": "2026-11-25",
+    "angles": [
+      "和处置效应对着看：涨了就卖、跌了死扛，巴菲特说他们正好反过来",
+      "后文转述彼得·林奇「剪掉鲜花、给杂草浇水」，引用时要说明是巴菲特信里提到的"
+    ],
+    "used_in": [
+      "心法-04-永远持有"
+    ],
+    "tags": [
+      "持有",
+      "处置效应",
       "好生意"
     ],
     "line": "价值投资心法"
@@ -315,6 +382,46 @@
       "长期"
     ],
     "line": "交易心理学"
+  },
+  {
+    "id": "BF-1992-01",
+    "source": "巴菲特 1992 年致股东信",
+    "locator": "开头，谈到对未来十年市场回报的判断时",
+    "original": "We've long felt that the only value of stock forecasters is to make fortune tellers look good. Even now, Charlie and I continue to believe that short-term market forecasts are poison and should be kept locked up in a safe place, away from children and also from grown-ups who behave in the market like children.",
+    "zh": "（译文）我们一向觉得，股票预测者的唯一价值，就是让算命先生看起来还像样一点。直到现在，查理和我仍然相信，短期的市场预测是毒药，应该锁在安全的地方，既要远离孩子，也要远离那些在市场里表现得像孩子的成年人。",
+    "url": "https://www.berkshirehathaway.com/letters/1992.html",
+    "verified_on": "2026-11-25",
+    "angles": [
+      "为什么我们爱听预测：它给人一种能控制的错觉，巴菲特却把短期预测称作毒药",
+      "可与 BF-1994-01、HM-01 对照：预测不了，但可以准备"
+    ],
+    "used_in": [],
+    "tags": [
+      "预测",
+      "短期",
+      "耐心"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "BF-1992-02",
+    "source": "巴菲特 1992 年致股东信",
+    "locator": "Common Stock Investments 一节",
+    "original": "What counts for most people in investing is not how much they know, but rather how realistically they define what they don't know.",
+    "zh": "（译文）对大多数人来说，投资里真正要紧的不是知道多少，而是能多老实地说清自己不知道什么。",
+    "url": "https://www.berkshirehathaway.com/letters/1992.html",
+    "verified_on": "2026-11-25",
+    "angles": [
+      "能力圈的另一半：边界画得是否老实，比圈子大小更重要",
+      "同段后文：An investor needs to do very few things right as long as he or she avoids big mistakes. 可单独再核"
+    ],
+    "used_in": [],
+    "tags": [
+      "能力圈",
+      "自知",
+      "犯错"
+    ],
+    "line": "价值投资心法"
   },
   {
     "id": "BF-1994-01",
@@ -748,12 +855,56 @@
     "verified_on": "2026-11-18",
     "angles": [
       "行情好的时候才有空间练纪律：等亏了再谈规则，往往已经晚了",
-      "同段还有一句：If you would not have a man flinch when the crisis comes, train him before it comes. 可与 SE-06、HM-01 对照"
+      "同段后文已单列为 SE-08，可与 SE-06、HM-01 对照"
     ],
-    "used_in": [],
+    "used_in": [
+      "哲学-04-顺时练兵"
+    ],
     "tags": [
       "准备",
       "纪律",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "SE-08",
+    "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+    "locator": "第18封信 §6，Gummere 英译，紧接 SE-07 之后",
+    "original": "If you would not have a man flinch when the crisis comes, train him before it comes.",
+    "zh": "（译文）如果不想让一个人在危机来时退缩，就在危机来之前训练他。",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18",
+    "verified_on": "2026-11-25",
+    "angles": [
+      "和 SE-07 连读：顺的时候先把规矩练熟，真碰到大风浪才有现成的动作",
+      "亏了再定纪律，往往定得又狠又短命"
+    ],
+    "used_in": [
+      "哲学-04-顺时练兵"
+    ],
+    "tags": [
+      "准备",
+      "纪律",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "SE-09",
+    "source": "塞涅卡《致卢基里乌斯书信》(Moral Letters to Lucilius)",
+    "locator": "第2封信 §2，Gummere 英译",
+    "original": "Everywhere means nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.",
+    "zh": "（译文）到处都去，等于哪儿也没去。一个人要是把时间都花在各地旅行上，最后会认识很多人，却没有朋友。",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2",
+    "verified_on": "2026-11-25",
+    "angles": [
+      "同时盯太多股票，等于一只要不熟：和能力圈是同一件事的另一面",
+      "信息看杂了，不是勤奋，是在旅行，没有在认路"
+    ],
+    "used_in": [],
+    "tags": [
+      "注意力",
+      "能力圈",
       "斯多葛"
     ],
     "line": "哲学"
@@ -834,6 +985,26 @@
     "tags": [
       "他人眼光",
       "面子",
+      "斯多葛"
+    ],
+    "line": "哲学"
+  },
+  {
+    "id": "MA-05",
+    "source": "马可·奥勒留《沉思录》(Meditations)",
+    "locator": "第4卷 §49，George Long 英译",
+    "original": "Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.",
+    "zh": "（译文）要像海岬那样：浪不断地打过来，它还是立着，并把周围的水势稳住。",
+    "url": "https://classics.mit.edu/Antoninus/meditations.4.four.html",
+    "verified_on": "2026-11-25",
+    "angles": [
+      "账户波动像海浪，伤到人的往往不是浪，而是跟着被卷走",
+      "同节后文还有一句 Unhappy am I because this has happened to me... 可与 MA-02「我被套了」对照，引用时须再核一次"
+    ],
+    "used_in": [],
+    "tags": [
+      "波动",
+      "情绪",
       "斯多葛"
     ],
     "line": "哲学"
@@ -976,11 +1147,33 @@
       "赚了未必是对，亏了未必是错：复盘时先看当时的理由，再看结果",
       "把一次好运当成自己的水平，下一次就容易放大风险"
     ],
-    "used_in": [],
+    "used_in": [
+      "心理-04-过程与结果"
+    ],
     "tags": [
       "过程",
       "结果偏差",
       "运气"
+    ],
+    "line": "交易心理学"
+  },
+  {
+    "id": "HM-08",
+    "source": "霍华德·马克斯备忘录 Selling Out (2022)",
+    "locator": "第2页",
+    "original": "The more I've thought about it since writing Liquidity, the more convinced I've become that there are two main reasons why people sell investments: because they're up and because they're down.",
+    "zh": "（译文）写过《Liquidity》之后，我想得越多，越确信人们卖掉投资，主要就两个理由：因为它涨了，或因为它跌了。",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/selling-out.pdf",
+    "verified_on": "2026-11-25",
+    "angles": [
+      "涨了怕回吐、跌了怕继续亏：两个方向都是被情绪推着卖",
+      "同备忘录第3页还有一句：I'm not saying investors shouldn't sell appreciated assets and realize profits. But it certainly doesn't make sense to sell things just because they're up. 可与 BF-1988-02、处置效应对照"
+    ],
+    "used_in": [],
+    "tags": [
+      "处置效应",
+      "持有",
+      "情绪"
     ],
     "line": "交易心理学"
   },
