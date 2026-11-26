@@ -536,5 +536,39 @@
       }
     ],
     "file": "哲学/2026-11-25-自选股里全是熟人没有一个朋友.md"
+  },
+  {
+    "title": "卖的理由，该朝前看",
+    "line": "交易心理学",
+    "date": "2026-11-26",
+    "time": "08:43",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/418671390"
+    },
+    "quotes": [
+      {
+        "source": "霍华德·马克斯备忘录 Selling Out (2022)",
+        "locator": "第2页",
+        "original": "The more I’ve thought about it since writing Liquidity, the more convinced I’ve become that there are two main reasons why people sell investments: because they’re up and because they’re down.",
+        "zh": "写完《Liquidity》之后，我想得越多就越相信，人们卖出投资主要有两个理由：因为涨了，和因为跌了。",
+        "url": "https://www.oaktreecapital.com/docs/default-source/memos/selling-out.pdf",
+        "note": "金句库 HM-08；备忘录日期 2022-01-13"
+      },
+      {
+        "source": "霍华德·马克斯备忘录 Selling Out (2022)",
+        "locator": "第5页，When Should Investors Sell? 一节",
+        "original": "There certainly are good reasons for selling, but they have nothing to do with the fear of making mistakes, experiencing regret and looking bad. Rather, these reasons should be based on the outlook for the investment – not the psyche of the investor – and they have to be identified through hardheaded financial analysis, rigor and discipline.",
+        "zh": "卖出当然有好的理由，但这些理由跟害怕犯错、怕后悔、怕难看都没关系。它们应该建立在这笔投资的前景上，而不是投资者的心理上，并且得靠冷静的财务分析、严谨和纪律来找出来。",
+        "url": "https://www.oaktreecapital.com/docs/default-source/memos/selling-out.pdf"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "霍华德·马克斯备忘录 Selling Out (2022)",
+        "locator": "第5页",
+        "note": "正文转述：投资逻辑不再成立或出现更好的风险调整后机会时卖出合理；卖出所得资金去向（relative selection / 机会成本）"
+      }
+    ],
+    "file": "交易心理学/2026-11-26-卖的理由该朝前看.md"
   }
 ]
