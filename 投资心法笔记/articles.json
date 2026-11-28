@@ -571,5 +571,47 @@
       }
     ],
     "file": "交易心理学/2026-11-26-卖的理由该朝前看.md"
+  },
+  {
+    "title": "为什么我们这么爱听预测？",
+    "line": "交易心理学",
+    "date": "2026-11-28",
+    "time": "16:36",
+    "platforms": {
+      "雪球": "https://xueqiu.com/9624362515/419053428"
+    },
+    "quotes": [
+      {
+        "source": "巴菲特 1992 年致股东信",
+        "locator": "开头，谈到对未来十年市场回报的判断时",
+        "original": "Even now, Charlie and I continue to believe that short-term market forecasts are poison and should be kept locked up in a safe place, away from children and also from grown-ups who behave in the market like children.",
+        "zh": "直到现在，查理和我仍然相信，短期的市场预测是毒药，应该锁在安全的地方，既要远离孩子，也要远离那些在市场里表现得像孩子的成年人。",
+        "url": "https://www.berkshirehathaway.com/letters/1992.html",
+        "note": "金句库 BF-1992-01 后半句；2026-11-28 重新下载原信 HTML 逐字核对。小红书版只截 short-term market forecasts are poison 一段（句中截取，未改词）。"
+      },
+      {
+        "source": "霍华德·马克斯备忘录 You Can't Predict. You Can Prepare. (2001)",
+        "locator": "第1页，开头部分",
+        "original": "All of investing consists of dealing with the future, as I've written before, and the future is something we can't know much about. But the limits on our foreknowledge needn't doom us to failure as long as we acknowledge them and act accordingly.",
+        "zh": "投资的全部内容都是在应对未来，而未来是我们知之甚少的东西。但只要承认这种局限并据此行动，预知能力有限并不注定失败。",
+        "url": "https://www.oaktreecapital.com/docs/default-source/memos/2001-11-20-you-cant-predict-you-can-prepare.pdf",
+        "note": "金句库 HM-01；2026-11-28 重新下载官网 PDF，pdftotext 后逐字比对一致。仅雪球版逐字引用，头条版为中文转述。"
+      }
+    ],
+    "mentions": [
+      {
+        "source": "巴菲特 1992 年致股东信",
+        "locator": "同段，引文前一句",
+        "original": "Making the first prediction goes somewhat against our grain",
+        "note": "正文转述为「同一段里他自己也做了一个对未来的判断，还说这有点违背他们的习惯」。"
+      },
+      {
+        "source": "巴菲特 1992 年致股东信",
+        "locator": "同段，引文前",
+        "original": "We've long felt that the only value of stock forecasters is to make fortune tellers look good.",
+        "note": "头条版转述为「股票预测者的唯一价值，就是让算命先生看起来还像样一点」。"
+      }
+    ],
+    "file": "交易心理学/2026-11-28-为什么我们这么爱听预测.md"
   }
 ]

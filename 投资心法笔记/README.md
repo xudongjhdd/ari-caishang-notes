@@ -14,6 +14,7 @@
 
 | 日期 | 标题 | 发布 |
 |---|---|---|
+| 2026-11-28 | [为什么我们这么爱听预测？](./交易心理学/2026-11-28-为什么我们这么爱听预测.md) | [雪球](https://xueqiu.com/9624362515/419053428) |
 | 2026-11-26 | [卖的理由，该朝前看](./交易心理学/2026-11-26-卖的理由该朝前看.md) | [雪球](https://xueqiu.com/9624362515/418671390) · [知乎](https://zhuanlan.zhihu.com/p/2109208623918470818) |
 | 2026-11-16 | [「等回本就卖」，这个本是谁定的？](./交易心理学/2026-11-16-「等回本就卖」这个本是谁定的.md) | [雪球](https://xueqiu.com/9624362515/417004256) |
 | 2026-11-12 | [最近的行情，为什么总被当成未来？](./交易心理学/2026-11-12-最近的行情为什么总被当成未来.md) | [雪球](https://xueqiu.com/9624362515/416503475) |
@@ -44,7 +45,7 @@
 
 ## 引用索引
 
-共 15 个出处，按被引用篇数排序。
+共 17 个出处，按被引用篇数排序。
 
 | 出处 | 引到的位置 | 用到它的文章 | 原文链接 |
 |---|---|---|---|
@@ -58,11 +59,13 @@
 | Tversky & Kahneman (1974), Science 185(4157) | 摘要 | [「等回本就卖」，这个本是谁定的？](./交易心理学/2026-11-16-「等回本就卖」这个本是谁定的.md) | [链接](https://doi.org/10.1126/science.185.4157.1124) |
 | 巴菲特 1987 年致股东信 | Marketable Securities - Permanent Holdings；Marketable Securities - Other | [市场先生每天报价，你得接吗？](./价值投资心法/2026-11-11-市场先生每天报价你得接吗.md) | [链接](https://www.berkshirehathaway.com/letters/1987.html) |
 | 巴菲特 1988 年致股东信 | Marketable Securities 一节，In 1988 we made major purchases of ... Freddie Mac and Coca Cola 一段；Marketable Securities 一节，同段，紧接 our favorite holding period is forever 之后；同段，紧接 We are just the opposite 之后；同段开头 | [最喜欢的持有期是永远，前面还有半句](./价值投资心法/2026-11-23-最喜欢的持有期是永远前面还有半句.md) | [链接](https://www.berkshirehathaway.com/letters/1988.html) |
+| 巴菲特 1992 年致股东信 | 开头，谈到对未来十年市场回报的判断时；同段，引文前一句；同段，引文前 | [为什么我们这么爱听预测？](./交易心理学/2026-11-28-为什么我们这么爱听预测.md) | [链接](https://www.berkshirehathaway.com/letters/1992.html) |
 | 巴菲特 1996 年致股东信 | Common Stock Investments 一节靠后，Let me add a few thoughts about your own investments 一段；Common Stock Investments 一节靠后，紧接上一句；Common Stock Investments 一节靠后 | [圈子不必大，但边界得清楚](./价值投资心法/2026-11-13-圈子不必大但边界得清楚.md) | [链接](https://www.berkshirehathaway.com/letters/1996.html) |
 | 巴菲特 2000 年致股东信 | 投资部分，In 2000, we sold nearly all of our Freddie Mac and Fannie Mae shares | [最喜欢的持有期是永远，前面还有半句](./价值投资心法/2026-11-23-最喜欢的持有期是永远前面还有半句.md) | — |
 | 霍华德·马克斯备忘录 Getting Lucky (2014) | 第6页，谈随机性 | [最近的行情，为什么总被当成未来？](./交易心理学/2026-11-12-最近的行情为什么总被当成未来.md) | [链接](https://www.oaktreecapital.com/docs/default-source/memos/2014-01-16-getting-lucky.pdf) |
 | 霍华德·马克斯备忘录 Hindsight First, Please (2005) | 第1页，要点清单首条；第12页；第1页，HM-04 后的三条要点；第2页 | [最近的行情，为什么总被当成未来？](./交易心理学/2026-11-12-最近的行情为什么总被当成未来.md) | [链接](https://www.oaktreecapital.com/docs/default-source/memos/2005-10-17-hindsight-first-please-or-what-where-they-thinking.pdf) |
 | 霍华德·马克斯备忘录 Selling Out (2022) | 第2页；第5页，When Should Investors Sell? 一节；第5页 | [卖的理由，该朝前看](./交易心理学/2026-11-26-卖的理由该朝前看.md) | [链接](https://www.oaktreecapital.com/docs/default-source/memos/selling-out.pdf) |
+| 霍华德·马克斯备忘录 You Can't Predict. You Can Prepare. (2001) | 第1页，开头部分 | [为什么我们这么爱听预测？](./交易心理学/2026-11-28-为什么我们这么爱听预测.md) | [链接](https://www.oaktreecapital.com/docs/default-source/memos/2001-11-20-you-cant-predict-you-can-prepare.pdf) |
 
 ## 说明
 
